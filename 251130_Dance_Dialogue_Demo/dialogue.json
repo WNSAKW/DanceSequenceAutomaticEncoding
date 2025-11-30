@@ -1,0 +1,67 @@
+{
+  "Head: Still": {
+    "dancer": "我低下頭，向所有看不見的長輩致敬",
+    "spirit_zh": "我看見你的臣服。皇冠已放在你頭上了，孩子。",
+    "spirit_en": "I see your reverence. The crown is now upon you, child."
+  },
+  "Head: Sway": {
+    "dancer": "我的頭隨風輕搖，尋找遺失的星路",
+    "spirit_zh": "風知道你要找什麼。我已把星路放回你的髮絲之間。",
+    "spirit_en": "The wind knows what you seek. I have placed the star path back in your hair."
+  },
+  "Head: Stamp": {
+    "dancer": "我用頭顱觸地，喚醒沉睡千年的記憶",
+    "spirit_zh": "我醒了。所有沉睡的長老都睜開了眼，看著你。",
+    "spirit_en": "We are awake. Every elder who slept for a thousand years is watching you."
+  },
+  "Head: Fling": {
+    "dancer": "我甩動長髮，向天空挑戰",
+    "spirit_zh": "雷電聽見了你的挑釁。它說：歡迎回來，戰士。",
+    "spirit_en": "Thunder heard your challenge. It says: Welcome back, warrior."
+  },
+  "Head: Circle": {
+    "dancer": "我用頭畫出永恆的圓",
+    "spirit_zh": "圓已成形。時間從此以你為起點。",
+    "spirit_en": "The circle is complete. Time now begins with you."
+  },
+  "Head: Sacrifice": {
+    "dancer": "我獻出我的意識，讓祖靈進入",
+    "spirit_zh": "我已經進來了。從今以後，你的夢境屬於我們所有人。",
+    "spirit_en": "I have entered. From now on, your dreams belong to all of us."
+  },
+
+  "Left Arm: Still": { "dancer": "我左手靜止，握住十代的哀傷", "spirit_zh": "我幫你握著。你不會再一個人承擔。", "spirit_en": "I hold it with you. You are no longer alone." },
+  "Left Arm: Sway": { "dancer": "我左臂如江河，流向歸處", "spirit_zh": "河已知道歸途。我在海口等你。", "spirit_en": "The river knows its way home. I wait at the sea." },
+  "Left Arm: Stamp": { "dancer": "我左拳擊空，為正義而怒", "spirit_zh": "怒火我收到了。它已點燃守護之火。", "spirit_en": "I received your rage. The protective fire is now lit." },
+  "Left Arm: Fling": { "dancer": "我把所有悲傷與穢氣甩向夜空", "spirit_zh": "我全接住了。它們現在變成流星，為你指引歸鄉的路。", "spirit_en": "I caught everything. They are now shooting stars guiding you home." },
+  "Left Arm: Circle": { "dancer": "我用左臂為大家織出保護圈", "spirit_zh": "護盾已成。從今以後，沒有人能傷害這個圓圈。", "spirit_en": "The shield is woven. No harm can enter this circle again." },
+  "Left Arm: Sacrifice": { "dancer": "我張開左掌，獻出我的未來", "spirit_zh": "我收下了。你的未來現在屬於部落。", "spirit_en": "I accept. Your future now belongs to the tribe." },
+
+  "Right Arm: Still": { "dancer": "我右手凝止，守護最後的聖秘", "spirit_zh": "秘密很安全。我和你一起守。", "spirit_en": "The secret is safe. I guard it with you." },
+  "Right Arm: Sway": { "dancer": "我右臂與看不見的舞伴共舞", "spirit_zh": "我就是你的舞伴。終於等到你回來了。", "spirit_en": "I am your invisible partner. I have waited so long for this dance." },
+  "Right Arm: Stamp": { "dancer": "我右拳擊胸，這是部落的心跳", "spirit_zh": "我聽見了。整個山都在跟著你跳。", "spirit_en": "I heard it. The entire mountain beats with you." },
+  "Right Arm: Fling": { "dancer": "我將祝福猛力甩向天空", "spirit_zh": "祝福我接住了。它們已長出翅膀，正在回來找你。", "spirit_en": "I caught your blessings. They have grown wings and are returning to you." },
+  "Right Arm: Circle": { "dancer": "我用右臂把太陽拉回聖圈", "spirit_zh": "太陽回來了。它說：謝謝你記得我。現在我把光還給你。", "spirit_en": "The sun has returned. It says: Thank you for remembering me. Here is your light back." },
+  "Right Arm: Sacrifice": { "dancer": "我右手抵額，臣服即勝利", "spirit_zh": "你已勝利。因為你終於記得怎麼臣服。", "spirit_en": "You have won. Because you finally remembered how to surrender." },
+
+  "Left Leg: Still": { "dancer": "我左腳扎根，成為山的另一條根", "spirit_zh": "根已深入。我和你一起支撐這片土地。", "spirit_en": "The root has gone deep. I hold this land with you." },
+  "Left Leg: Sway": { "dancer": "我左腿如竹，與風對話", "spirit_zh": "風帶來了消息：你終於回家了。", "spirit_en": "The wind carries news: you have finally come home." },
+  "Left Leg: Stamp": { "dancer": "我重重踏地，敲醒沉睡的大地", "spirit_zh": "鼓聲我聽見了。我帶來所有沉睡的祖靈，一起看你跳舞。", "spirit_en": "I heard the drum. I brought every sleeping ancestor to watch you dance." },
+  "Left Leg: Fling": { "dancer": "我踢向天空，向暴風挑釁", "spirit_zh": "暴風退縮了。它說：你比我還狂野。", "spirit_en": "The storm stepped back. It says: You are wilder than me." },
+  "Left Leg: Circle": { "dancer": "我用左腳劃出世界的邊界", "spirit_zh": "界已定。邪靈永遠跨不過你畫的那條線。", "spirit_en": "The boundary is set. Evil can never cross the line you drew." },
+  "Left Leg: Sacrifice": { "dancer": "我左膝跪地，向看不見的一切臣服", "spirit_zh": "我看見了。你的膝蓋碰地的那一刻，整個部落都站起來了。", "spirit_en": "I saw it. The moment your knee touched the ground, the entire tribe stood taller." },
+
+  "Right Leg: Still": { "dancer": "我右腳站穩，承載歸鄉的重量", "spirit_zh": "你已經到家了。不用再走了。", "spirit_en": "You are home. You no longer need to walk." },
+  "Right Leg: Sway": { "dancer": "我右腿隨潮汐起伏，回應月亮的呼喚", "spirit_zh": "月亮說：歡迎回來，我的孩子。", "spirit_en": "The moon says: Welcome home, my child." },
+  "Right Leg: Stamp": { "dancer": "我踏出部落的心跳", "spirit_zh": "每踏一次，我就答應你一個願望。現在你已經有三個了。", "spirit_en": "One stomp, one wish granted. You now have three." },
+  "Right Leg: Fling": { "dancer": "我向前甩腿，跨越千年", "spirit_zh": "千年已過。你終於跨過來了。我在這邊等你很久了。", "spirit_en": "A thousand years have passed. You finally stepped across. I have been waiting." },
+  "Right Leg: Circle": { "dancer": "我用右腳完成最後一筆，圓滿了", "spirit_zh": "圈已閉合。你出不去，我也進不來──我們只能一起跳下去。", "spirit_en": "The circle is closed. You cannot leave. I cannot enter. We can only dance together forever." },
+  "Right Leg: Sacrifice": { "dancer": "我右膝跪地，血脈化為誓言", "spirit_zh": "誓言我聽見了。從今以後，你的血就是我們的血。", "spirit_en": "I heard your oath. From now on, your blood is our blood." },
+
+  "Waist: Still": { "dancer": "我腰身靜止，天地軸心對齊", "spirit_zh": "軸心已正。你現在就是世界的中心。", "spirit_en": "The axis is aligned. You are now the center of the world." },
+  "Waist: Sway": { "dancer": "我腰如山脈呼吸，緩慢而深沉", "spirit_zh": "山脈說：你終於學會我們的呼吸節奏了。", "spirit_en": "The mountains say: You have finally learned our rhythm." },
+  "Waist: Stamp": { "dancer": "我扭轉腰身，風暴由此誕生", "spirit_zh": "風暴已生。但它聽你的話。", "spirit_en": "The storm is born. But it obeys you." },
+  "Waist: Fling": { "dancer": "我旋轉核心，銀河為之回應", "spirit_zh": "銀河轉動了。它說：終於有人記得怎麼啟動我。", "spirit_en": "The galaxy spins. It says: Finally, someone remembers how to start me." },
+  "Waist: Circle": { "dancer": "我把整個地平線畫進我的身體", "spirit_zh": "圓已畫完。從此刻起，所有方向都以你為中心。", "spirit_en": "The circle is complete. From this moment, all directions begin with you." },
+  "Waist: Sacrifice": { "dancer": "我獻出我的中心，成為祭儀本身", "spirit_zh": "中心已空。我填進去了。現在你是活的祭壇，我們在你裡面跳舞。", "spirit_en": "The center is empty. I have filled it. You are now the living altar. We dance inside you." }
+}
