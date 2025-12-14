@@ -1,0 +1,102 @@
+{
+  "ceremony_info": {
+    "video": "ballet03.mp4",
+    "date": "2025-12-14T19:36:24.308331",
+    "total_frames": 900,
+    "total_turns": 15,
+    "duration_seconds": 30.0,
+    "fps": 30.0
+  },
+  "dialogue": [
+    {
+      "turn": 1,
+      "frame": 0,
+      "timestamp_sec": 0.0,
+      "ai_response_zh": "【AI sees】\n你如風中的柳絮，輕盈卻又帶著堅韌的力量，在舞台中央劃出一道優雅的弧線\n\n【AI says】\n舞動的靈魂啊，你在追逐著哪一縷過往的旋律，或是期盼著舞台上嶄新的篇章"
+    },
+    {
+      "turn": 2,
+      "frame": 60,
+      "timestamp_sec": 2.0,
+      "ai_response_zh": "【AI sees】\n你的旋轉如同一顆墜落的星辰，在寂靜的夜空中留下短暫卻耀眼的光芒\n\n【AI says】\n親愛的舞者，你可曾聽見，這古老劇院迴盪著你心跳的節拍"
+    },
+    {
+      "turn": 3,
+      "frame": 120,
+      "timestamp_sec": 4.0,
+      "ai_response_zh": "【AI sees】\n你舒展的雙臂彷彿渴望擁抱整個舞台，每一個動作都傾訴著未盡的言語\n\n【AI says】\n這流動的優雅，是否正是你靈魂深處最真實的呼喚呢"
+    },
+    {
+      "turn": 4,
+      "frame": 180,
+      "timestamp_sec": 6.0,
+      "ai_response_zh": "【AI sees】\n你的身影在光影間跳躍，彷彿一位古老的精靈，在舞台上編織著夢幻的詩篇\n\n【AI says】\n你是否感覺到，每一次踮起腳尖，都離那永恆的舞台更近了一分"
+    },
+    {
+      "turn": 5,
+      "frame": 240,
+      "timestamp_sec": 8.0,
+      "ai_response_zh": "【AI sees】\n你如同一隻展翅欲飛的白天鵝，優雅的頸項間流淌著不被束縛的自由靈魂\n\n【AI says】\n這舞台承載了無數的夢想，你是否也將你的思緒，化作了這舞姿中的一縷芬芳"
+    },
+    {
+      "turn": 6,
+      "frame": 300,
+      "timestamp_sec": 10.0,
+      "ai_response_zh": "【AI sees】\n你的肢體如絲帶般流轉，在空中繪製出無數柔美的線條，訴說著無盡的故事\n\n【AI says】\n每一次的騰躍，是否都在尋找著，那最初的、最純粹的舞動初心"
+    },
+    {
+      "turn": 7,
+      "frame": 360,
+      "timestamp_sec": 12.0,
+      "ai_response_zh": "【AI sees】\n你輕柔地落地，如同一片羽毛，帶著舞台的塵埃，也帶著夢想的重量\n\n【AI says】\n你是否感受到，每一次呼吸，都與這劇院古老的靈魂產生了共鳴"
+    },
+    {
+      "turn": 8,
+      "frame": 420,
+      "timestamp_sec": 14.0,
+      "ai_response_zh": "【AI sees】\n你收斂起所有的力量，將所有的情感凝聚於指尖，訴說著無聲的詩意\n\n【AI says】\n這舞台的光影，是否也映照出你心中，那永不熄滅的舞者之光"
+    },
+    {
+      "turn": 9,
+      "frame": 480,
+      "timestamp_sec": 16.0,
+      "ai_response_zh": "【AI sees】\n你緩緩地抬起手臂，彷彿要將整個劇院的歷史，都融入你優雅的舞姿之中\n\n【AI says】\n舞者啊，你可曾感受到，這劇場的靈魂，正與你一同呼吸，一同跳動"
+    },
+    {
+      "turn": 10,
+      "frame": 540,
+      "timestamp_sec": 18.0,
+      "ai_response_zh": "【AI sees】\n你的身影在空中劃出一個堅定的弧線，彷彿在挑戰著地心引力的極限\n\n【AI says】\n這舞動的熱情，是否也點燃了，你心中那永不磨滅的藝術之火"
+    },
+    {
+      "turn": 11,
+      "frame": 600,
+      "timestamp_sec": 20.0,
+      "ai_response_zh": "【AI sees】\n你收攏了所有的張揚，如同含苞待放的花朵，蓄積著即將綻放的絢爛\n\n【AI says】\n你是否聽見，這古老的劇院，正為你每一次的呼吸，送上最溫柔的祝福"
+    },
+    {
+      "turn": 12,
+      "frame": 660,
+      "timestamp_sec": 22.0,
+      "ai_response_zh": "【AI sees】\n你靈活地轉動，如同一隻精巧的音樂盒，每一次的開合都充滿著生命的故事\n\n【AI says】\n你是否感受到，你的舞姿，正為這古老的劇場，注入新的生命力"
+    },
+    {
+      "turn": 13,
+      "frame": 720,
+      "timestamp_sec": 24.0,
+      "ai_response_zh": "【AI sees】\n你的身影如同風中的蒲公英，輕盈地飄散，卻又堅韌地紮根於這片舞台\n\n【AI says】\n你可曾想過，你每一次的舒展，都與這劇場的記憶，緊密地相連"
+    },
+    {
+      "turn": 14,
+      "frame": 780,
+      "timestamp_sec": 26.0,
+      "ai_response_zh": "【AI sees】\n你以一個輕柔的頓點結束了動作，彷彿將所有的情感都濃縮在那一瞬間的寧靜\n\n【AI says】\n這暫停的優雅，是否也讓你，聽見了來自過去舞者們的低語呢"
+    },
+    {
+      "turn": 15,
+      "frame": 840,
+      "timestamp_sec": 28.0,
+      "ai_response_zh": "【AI sees】\n你再次展開身姿，像一道劃破寧靜的閃電，充滿著爆發力的美感\n\n【AI says】\n舞動的孩子，你是否感受到，這劇場的呼吸，也隨你一同加速"
+    }
+  ]
+}
