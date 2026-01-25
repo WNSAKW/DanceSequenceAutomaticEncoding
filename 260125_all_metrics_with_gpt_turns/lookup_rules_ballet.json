@@ -1,0 +1,204 @@
+{
+  "move_energy_mapping": {
+    "energy_avg": {
+      "arabesque": 15.422,
+      "fouetté": 10.18,
+      "jeté": 2.28,
+      "jeté, plié": 4.75,
+      "pirouette": 3.61,
+      "plié": 6.917
+    },
+    "sway": {
+      "arabesque": 0.126,
+      "fouetté": 0.096,
+      "jeté": 0.088,
+      "jeté, plié": 0.061,
+      "pirouette": 0.118,
+      "plié": 0.223
+    },
+    "cultural_refs": {
+      "arabesque": "天鵝湖/奧黛特",
+      "fouetté": "N/A",
+      "jeté": "胡桃夾子/糖梅仙子",
+      "jeté, plié": "天鵝湖/奧黛特",
+      "pirouette": "睡美人/奧蘿拉",
+      "plié": "N/A"
+    }
+  },
+  "energy_culture_mapping": {
+    "('低', '睡美人/奧蘿拉')": 3.0,
+    "('低', '天鵝湖/奧黛特')": 3.0,
+    "('低', '胡桃夾子/糖梅仙子')": 2.0,
+    "('低', 'N/A')": NaN,
+    "('中', '睡美人/奧蘿拉')": NaN,
+    "('中', '天鵝湖/奧黛特')": NaN,
+    "('中', '胡桃夾子/糖梅仙子')": NaN,
+    "('中', 'N/A')": NaN,
+    "('高', '睡美人/奧蘿拉')": NaN,
+    "('高', '天鵝湖/奧黛特')": NaN,
+    "('高', '胡桃夾子/糖梅仙子')": NaN,
+    "('高', 'N/A')": 2.0,
+    "('極高', '睡美人/奧蘿拉')": NaN,
+    "('極高', '天鵝湖/奧黛特')": 2.0,
+    "('極高', '胡桃夾子/糖梅仙子')": NaN,
+    "('極高', 'N/A')": 1.0
+  },
+  "volume_move_mapping": {
+    "mean": {
+      "arabesque": 0.0401,
+      "fouetté": 0.0794,
+      "jeté": 0.031,
+      "jeté, plié": 0.0385,
+      "pirouette": 0.0668,
+      "plié": 0.0265
+    },
+    "min": {
+      "arabesque": 0.0165,
+      "fouetté": 0.0776,
+      "jeté": 0.031,
+      "jeté, plié": 0.0385,
+      "pirouette": 0.0554,
+      "plié": 0.0157
+    },
+    "max": {
+      "arabesque": 0.0617,
+      "fouetté": 0.0811,
+      "jeté": 0.031,
+      "jeté, plié": 0.0385,
+      "pirouette": 0.0781,
+      "plié": 0.0344
+    }
+  },
+  "emotion_frequency": {
+    "力量": 9,
+    "輕盈": 9,
+    "優雅": 7,
+    "掙扎": 5,
+    "純潔": 2,
+    "控制": 2,
+    "夢幻": 2,
+    "謙遜": 1
+  },
+  "detailed_rules": [
+    {
+      "turn": 1,
+      "ballet_moves": "pirouette",
+      "energy_level": "低",
+      "volume": 0.0554,
+      "cultural_refs": "睡美人/奧蘿拉",
+      "emotion_keywords": "優雅, 力量"
+    },
+    {
+      "turn": 2,
+      "ballet_moves": "arabesque",
+      "energy_level": "極高",
+      "volume": 0.0617,
+      "cultural_refs": "天鵝湖/奧黛特",
+      "emotion_keywords": "輕盈, 力量, 掙扎, 純潔"
+    },
+    {
+      "turn": 3,
+      "ballet_moves": "arabesque",
+      "energy_level": "低",
+      "volume": 0.0411,
+      "cultural_refs": "天鵝湖/奧黛特",
+      "emotion_keywords": "掙扎"
+    },
+    {
+      "turn": 4,
+      "ballet_moves": "fouetté",
+      "energy_level": "高",
+      "volume": 0.0776,
+      "cultural_refs": "N/A",
+      "emotion_keywords": "輕盈, 力量, 控制"
+    },
+    {
+      "turn": 5,
+      "ballet_moves": "arabesque",
+      "energy_level": "極高",
+      "volume": 0.0165,
+      "cultural_refs": "天鵝湖/奧黛特",
+      "emotion_keywords": "輕盈, 掙扎"
+    },
+    {
+      "turn": 6,
+      "ballet_moves": "jeté",
+      "energy_level": "低",
+      "volume": 0.031,
+      "cultural_refs": "胡桃夾子/糖梅仙子",
+      "emotion_keywords": "輕盈, 夢幻"
+    },
+    {
+      "turn": 7,
+      "ballet_moves": "jeté, plié",
+      "energy_level": "低",
+      "volume": 0.0385,
+      "cultural_refs": "天鵝湖/奧黛特",
+      "emotion_keywords": "優雅, 力量, 掙扎"
+    },
+    {
+      "turn": 8,
+      "ballet_moves": "fouetté",
+      "energy_level": "低",
+      "volume": 0.0811,
+      "cultural_refs": "N/A",
+      "emotion_keywords": "輕盈, 力量, 控制"
+    },
+    {
+      "turn": 9,
+      "ballet_moves": "arabesque",
+      "energy_level": "低",
+      "volume": 0.0494,
+      "cultural_refs": "天鵝湖/奧黛特",
+      "emotion_keywords": "掙扎, 純潔"
+    },
+    {
+      "turn": 10,
+      "ballet_moves": "pirouette",
+      "energy_level": "低",
+      "volume": 0.0781,
+      "cultural_refs": "睡美人/奧蘿拉",
+      "emotion_keywords": "N/A"
+    },
+    {
+      "turn": 11,
+      "ballet_moves": "plié",
+      "energy_level": "高",
+      "volume": 0.0157,
+      "cultural_refs": "N/A",
+      "emotion_keywords": "優雅, 輕盈, 力量, 謙遜"
+    },
+    {
+      "turn": 12,
+      "ballet_moves": "plié",
+      "energy_level": "低",
+      "volume": 0.0344,
+      "cultural_refs": "睡美人/奧蘿拉",
+      "emotion_keywords": "優雅, 輕盈, 力量"
+    },
+    {
+      "turn": 13,
+      "ballet_moves": "arabesque",
+      "energy_level": "低",
+      "volume": 0.0304,
+      "cultural_refs": "胡桃夾子/糖梅仙子",
+      "emotion_keywords": "優雅, 夢幻"
+    },
+    {
+      "turn": 14,
+      "ballet_moves": "plié",
+      "energy_level": "低",
+      "volume": 0.0294,
+      "cultural_refs": "N/A",
+      "emotion_keywords": "優雅, 輕盈, 力量"
+    },
+    {
+      "turn": 15,
+      "ballet_moves": "arabesque",
+      "energy_level": "極高",
+      "volume": 0.0414,
+      "cultural_refs": "N/A",
+      "emotion_keywords": "優雅, 輕盈, 力量"
+    }
+  ]
+}
