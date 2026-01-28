@@ -8,4 +8,5 @@
   - [251211_twa](https://youtu.be/bgD3n89szUk?si=av-8L3DC5TKrFWyy)
   - [251221_ballet_gemini](https://youtu.be/ves5hV7o2GE)
   - [251221_ballet_gpt](https://youtu.be/JY-9nHZCZlM)
+  - [260125_AI_Dance_Analysis_Pipeline](https://youtu.be/mHVMO30UiXA)
   - [260125_all_metrics_with_gpt_turns](https://youtu.be/CthxbnSNIb4)
