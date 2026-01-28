@@ -2,6 +2,7 @@
 此子計畫以既有的舞蹈骨架資料為輸入，透過動作序列編碼演算法，將關節位置與時間變化轉換為具語意的文字符號，過程使舞蹈動作可被語言化與結構化，用以分析、標註或生成具敘事性的舞蹈描述。
 
 - [期中總結] 檔案資料夾：2025_Dance_Dialogue（先看資料夾中的 readme.ipynb 檔案，內含步驟及需準備的資料）
+- [使用資料] 檔案連結：https://drive.google.com/drive/folders/1sVp0VV5cnPds2-x8nupfWWji3lVYc6a8?usp=sharing
 - [實作影片]
   - [251117_demo](https://youtu.be/euIQWZVxnnk)
   - [251211_ballet](https://youtu.be/IHUbKggOM-I?si=6zC36zoifc099O4i)
