@@ -9,4 +9,5 @@
   - [251221_ballet_gemini](https://youtu.be/ves5hV7o2GE)
   - [251221_ballet_gpt](https://youtu.be/JY-9nHZCZlM)
   - [260125_AI_Dance_Analysis_Pipeline](https://youtu.be/mHVMO30UiXA)
+    ※ 肢體研究小組提供之網站操作紀錄 (Ballet)
   - [260125_all_metrics_with_gpt_turns](https://youtu.be/CthxbnSNIb4)
