@@ -1,8 +1,8 @@
 # DanceSequenceAutomaticEncoding
 此子計畫以既有的舞蹈骨架資料為輸入，透過動作序列編碼演算法，將關節位置與時間變化轉換為具語意的文字符號，過程使舞蹈動作可被語言化與結構化，用以分析、標註或生成具敘事性的舞蹈描述。
 
-- [期中總結]_檔案資料夾：2025_Dance_Dialogue（先看資料夾中的 readme.ipynb 檔案，內含步驟及需準備的資料）
+- [期中總結] 檔案資料夾：2025_Dance_Dialogue（先看資料夾中的 readme.ipynb 檔案，內含步驟及需準備的資料）
 - [實作影片]
-  1. 251117_demo：https://youtu.be/euIQWZVxnnk
-  2. 251211_ballet：https://youtu.be/IHUbKggOM-I
-  3. 251211_twa：https://youtu.be/bgD3n89szUk
+  - 251117_demo：https://youtu.be/euIQWZVxnnk
+  - 251211_ballet：https://youtu.be/IHUbKggOM-I
+  - 251211_twa：https://youtu.be/bgD3n89szUk
