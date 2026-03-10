@@ -1,0 +1,3 @@
+- 06_metrics_to_semantic_text：最終程式碼，讀取六大特徵指標資料，利用 LLM 反推並生成語意文字。
+- 260309_AI_Dance_Analysis_v2：嘗試讀取六大特徵指標資料，並利用 LLM 反推生成文字。
+- 260309_Data_Comparison_v3：跨資料夾數據對比，幫助確認不同的數據來源（data1, data2...）究竟有多相似，並找出哪些數據集是重複的。
