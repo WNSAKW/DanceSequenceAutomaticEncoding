@@ -12,6 +12,15 @@
   - [260125_AI_Dance_Analysis_Pipeline](https://youtu.be/mHVMO30UiXA)
     - 肢體研究小組提供之[影片指標分析]網站操作紀錄 (Ballet)
   - [260125_all_metrics_with_gpt_turns](https://youtu.be/CthxbnSNIb4)
+  - [20260131 ballet dialogue (no lights)](https://youtu.be/3Km7ewJF8Mg)
+  - [26020105 analysis](https://youtu.be/XlJo4qSw_WQ)
+    - 肢體研究小組提供之資料
+  - [26020205_LLM 語意文字生成_demo1](https://youtu.be/5NyVz_xD1U4)
+    - 匯入舞蹈文化資料庫+chatGPT生成語意文字
+  - [260201_LLM 語意文字生成_demo2](https://youtu.be/9Y7A3Azn2OI)
+    - 匯入舞蹈文化資料庫+chatGPT生成語意文字
+  - [260316_metrics_to_semantic_with_skeleton](https://youtu.be/9-S24MT_zdo)
+    - 六大指標資料生成語意文字
 - [肢體研究小組-提供工具]
   - [骨架3D檢視](https://3ddemo.danceanalysis.fclinlab.com/)
   - [指標視覺化](https://vision.danceanalysis.fclinlab.com/)
