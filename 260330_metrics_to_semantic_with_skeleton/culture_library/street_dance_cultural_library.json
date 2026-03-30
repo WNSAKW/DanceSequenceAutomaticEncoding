@@ -1,0 +1,944 @@
+[
+  {
+    "term": "Breaking (B-boying/B-girling)",
+    "short_phrase": "嘻哈四大元素之一，地板舞蹈之巔。",
+    "description": "Breaking (B-boying/B-girling)：街舞中最具代表性的地板舞蹈形式，包含 toprock（站立腳步）、downrock/footwork（地板移動）、power moves（高難度旋轉翻轉）、freezes（靜止姿勢）。文化意義：1970年代紐約布朗克斯起源，為 Hip-Hop 四大元素之一，由非洲裔與拉丁裔青年發展，用以取代幫派暴力，提供非暴力競爭與社群連結。",
+    "poetic": "在布朗克斯的圓圈裡，他如颶風撕裂水泥，power move 把重力踩碎，freeze 凍結怒火，讓街頭的痛化作最狂野的自由宣言。"
+  },
+  {
+    "term": "Popping",
+    "short_phrase": "肌肉收縮幻覺，機械與波浪之美。",
+    "description": "Popping：透過肌肉快速收縮與放鬆（pops）製造機械或波浪幻覺的隔離技巧。文化意義：起源於美國西岸，受鼓機與合成器影響，強調精準控制與視覺錯覺，由 Popin' Pete 與 Electric Boogaloos 等先驅發展。",
+    "poetic": "肌肉像被電流竊取，他化身活生生的機器人，每一次 pop 都在空氣中刻下無形的波紋，讓現實邊界瞬間崩解。"
+  },
+  {
+    "term": "Locking",
+    "short_phrase": "關節鎖定停頓，歡樂與幽默精神。",
+    "description": "Locking：快速鎖定關節、誇張停頓與喜劇表情的風格，常伴隨 funk 音樂。文化意義：由 Don Campbell 於1960年代末創造，源自模仿 funky chicken 動作，象徵歡樂、幽默與派對精神。",
+    "poetic": "他像被節奏突然逮捕的精靈，鎖定每一個關節，卻用燦爛笑容點燃全場，把 funk 的靈魂變成街頭最無邪的狂歡。"
+  },
+  {
+    "term": "Krumping",
+    "short_phrase": "激烈情感爆發，胸擊跺腳之療癒。",
+    "description": "Krumping：激烈、攻擊性強的即興舞蹈，包含胸擊、跺腳、尖銳動作，用以表達情感爆發。文化意義：2000年代初洛杉磯南中區起源，從 Clowning 演變而來，象徵抵抗、靈性與社群療癒，被稱為 Kingdom Radically Uplifted Mighty Praise，由 Ceasare 'Tight Eyez' Willis 等先驅發展。",
+    "poetic": "胸膛如火山噴發，他用 krump 的每一次撞擊，把街頭的痛與讚美砸進大地，讓憤怒在節奏中昇華成祈禱。"
+  },
+  {
+    "term": "Waacking (Whacking)",
+    "short_phrase": "手臂揮舞戲劇，性別認同之宣告。",
+    "description": "Waacking (Whacking)：快速手臂揮舞、戲劇姿態與情感表達的舞蹈，常配 disco 音樂。文化意義：1970年代洛杉磯地下 disco 場景誕生，慶祝多元性別認同與自我表達，受 Soul Train 節目影響，由 Tyrone 'The Bone' Proctor 等先驅推動。",
+    "poetic": "手臂如鞭子抽打空氣，他用 waacking 的誇張姿態與燃燒眼神，把 disco 的夜晚變成一場屬於邊緣者的華麗叛變。"
+  },
+  {
+    "term": "House Dance",
+    "short_phrase": "快速複雜腳步，放鬆律動流動感。",
+    "description": "House Dance：快速複雜腳步與放鬆上身的律動舞蹈。文化意義：1980年代芝加哥與紐約 club 文化起源，受 house 音樂驅動，融合非洲、拉丁、Lindy Hop 等元素，強調 groove 與 freestyle/social 特性，由 Marjory Smarth 等人物推動國際傳播。",
+    "poetic": "腳步如流水在地板滑行，他讓 house 的低頻成為身體的脈搏，在 club 的燈光下輕盈地忘卻一切重量。"
+  },
+  {
+    "term": "Voguing",
+    "short_phrase": "伸展台姿態轉身，身分認同之驕傲。",
+    "description": "Voguing：模擬時裝伸展台的姿態、手勢、catwalk 與 duckwalk。文化意義：1960年代起紐約 ballroom 文化，由 LGBTQ+ 社群發展，起源於 drag balls 與 houses（如 House of LaBeija 1972年創立），象徵身分認同、驕傲與對抗主流規範，由 Paris Dupree、Crystal LaBeija、Willi Ninja 等先驅推動。",
+    "poetic": "他像 Vogue 封面走下伸展台，用尖銳手勢與高傲轉身，在 ballroom 的聚光燈下宣告：我的身體，我作主。"
+  },
+  {
+    "term": "Cypher",
+    "short_phrase": "圍圈即興交流，街頭文化核心儀式。",
+    "description": "Cypher：舞者圍圈輪流即興表演的傳統形式。文化意義：Hip-Hop 文化的核心儀式，促進知識分享、切磋與社群連結，常見於街頭或 battle 前，提供非暴力競爭空間。",
+    "poetic": "圓圈就是戰場也是聖殿，每位舞者輪流獻上靈魂，在 cypher 的呼吸間，街頭傳說就此誕生並永傳。"
+  },
+  {
+    "term": "Freeze",
+    "short_phrase": "瞬間停格靜止，力量與平衡之美。",
+    "description": "Freeze：breaking 中的靜止姿勢，通常在 power move 後展現。文化意義：強調力量、平衡與創意，是 battle 中的高潮與個人簽名，常以頭立、肩凍等高難度形式結束套路。",
+    "poetic": "時間在那一瞬被他強行按下暫停，用一個 freeze 把所有爆發凝固成永恆，讓重力也低頭臣服。"
+  },
+  {
+    "term": "Power Moves",
+    "short_phrase": "高難度旋轉翻轉，體能極限之展現。",
+    "description": "Power Moves：breaking 中的高難度旋轉與翻轉動作（如 windmill、headspin、flare）。文化意義：展現體能極限與技巧，是 battle 決勝關鍵，源自1970年代 Bronx 街頭，強調耐力與創意。",
+    "poetic": "他像人間龍捲風，power move 把地面當畫布，每一圈旋轉都在重寫地心引力的規則。"
+  },
+  {
+    "term": "DJ Kool Herc",
+    "short_phrase": "嘻哈音樂之父，延長節拍者。",
+    "description": "DJ Kool Herc：Hip-Hop 之父。文化意義：1973年在 Bronx 首次使用兩個轉盤延長 breakbeat，創造 hip-hop 音樂基礎，促成 breaking 等舞蹈誕生，啟發街頭派對文化。",
+    "poetic": "兩張黑膠在他手中永不結束，他把 breakbeat 拉長成永恆，讓街頭的年輕靈魂第一次聽見自己的心跳。"
+  },
+  {
+    "term": "Afrika Bambaataa",
+    "short_phrase": "Zulu Nation創始人，和平團結推手。",
+    "description": "Afrika Bambaataa：Hip-Hop 文化推廣者。文化意義：創立 Universal Zulu Nation，將 hip-hop 轉化為和平、團結與知識的運動，從幫派文化轉向正面社群力量。",
+    "poetic": "他用音樂把刀劍換成節拍，在 Bronx 的夜色中播下 Zulu 的種子，讓全世界聽見街頭也能唱出和平的頌歌。"
+  },
+  {
+    "term": "Crazy Legs",
+    "short_phrase": "Rock Steady領袖，Breaking全球化功臣。",
+    "description": "Crazy Legs：Rock Steady Crew 領袖。文化意義：1980年代將 breaking 推向全球，透過電影與巡演奠定現代 b-boy 美學，強調技巧與傳承。",
+    "poetic": "他像風一樣掠過地板，把街頭的粗糙雕琢成藝術，讓 Rock Steady 的名字成為 breaking 永恆的圖騰。"
+  },
+  {
+    "term": "Boogaloo Sam",
+    "short_phrase": "Popping大師，Electric Boogaloos 創始。",
+    "description": "Boogaloo Sam：Popping 與 Electric Boogaloos 創始人. 文化意義：1970年代發展 boogaloo 與 popping 風格，將西岸 funk 舞蹈推向國際。",
+    "poetic": "他的身體像活的電流，在 popping 的每一次脈衝中，讓機械的靈魂擁有街頭的溫度。"
+  },
+  {
+    "term": "Rock Steady Crew",
+    "short_phrase": "傳奇 Breaking 舞團，奠定街頭史詩。",
+    "description": "Rock Steady Crew：最具傳奇的 breaking crew。文化意義：1977年成立，由 Joe-Joe 與 Crazy Legs 領導，將 breaking 從街頭帶入主流視野，參與電影與國際巡演。",
+    "poetic": "他們是水泥上的磐石，穩如山嶽卻靈動如風，在每一場 cypher 中刻下不朽的街頭史詩。"
+  },
+  {
+    "term": "Electric Boogaloos",
+    "short_phrase": "Popping大師團體，引領機械感美學。",
+    "description": "Electric Boogaloos：Popping 與 funk styles 傳奇團體。文化意義：由 Boogaloo Sam 創立，將 popping 推向專業舞台與電視，強調精準與表演性。",
+    "poetic": "他們把 popping 變成魔法秀，每一次肌肉閃電都讓觀眾忘記現實，只剩下節奏與驚嘆。"
+  },
+  {
+    "term": "Red Bull BC One",
+    "short_phrase": "全球頂尖賽事，Breaking 世界盃。",
+    "description": "Red Bull BC One：全球頂尖單人 breaking 賽事。文化意義：2004年創辦，被視為 breaking 的世界盃，推動街舞進入主流競技視野。",
+    "poetic": "一對一的燈光戰場，BC One 把街頭的榮耀放大成全球的傳奇，每一場對決都是心跳與地板的對話。"
+  },
+  {
+    "term": "Battle of the Year (BOTY)",
+    "short_phrase": "國際團隊賽事，Breaking 交流巔峰。",
+    "description": "Battle of the Year (BOTY)：國際 crew battle 大賽。文化意義：1990年德國創辦，象徵 breaking 的團隊榮譽與全球交流。",
+    "poetic": "全世界最狂的 crew 在此集結，BOTY 的每一輪碰撞，都讓街頭的火焰燒得更旺、更遠。"
+  },
+  {
+    "term": "Juste Debout",
+    "short_phrase": "歐洲街舞賽事，全球派對交流。",
+    "description": "Juste Debout：歐洲頂尖街舞賽事。文化意義：2002年由 Bruce Ykanji 創辦，聚焦 locking、popping、house 等風格，成為國際街舞交流平台。",
+    "poetic": "在 Juste Debout 的地板上，每一步都跨過大西洋，歐洲的燈光點燃全球街頭的無聲革命。"
+  },
+  {
+    "term": "Hip-Hop Music & Culture",
+    "short_phrase": "街舞之靈魂，引領身體脈搏。",
+    "description": "Hip-Hop Music & Culture：街舞的靈魂伴侶。文化意義：1970年代 Bronx 起源，從 breakbeat、funk、soul 到 electro，永遠驅動舞者的律動與情感，為 breaking 等舞蹈提供節奏基礎。",
+    "poetic": "當 bass 落下，他閉眼讓身體成為音樂的延伸，那一刻，hip-hop 不再是背景，而是流進血管的生命。"
+  },
+  {
+    "term": "Funk Music",
+    "short_phrase": "舊校街舞節奏，不羈的律動之源。",
+    "description": "Funk Music：舊校街舞的主要配樂。文化意義：1970年代 funk 與 breakbeat 奠定 breaking、popping、locking 的節奏基礎，受 James Brown 等影響。",
+    "poetic": "funk 的鼓點像心臟直擊，他用 locking 與 popping 回應，讓街頭的夜晚充滿不羈的律動。"
+  },
+  {
+    "term": "Sneakers",
+    "short_phrase": "街舞必備戰靴，街頭風格與實用。",
+    "description": "Sneakers：街舞者的必備戰靴。文化意義：提供抓地力與個人風格，象徵街頭文化與實用美學，常見於 breaking 與 hip-hop 表演。",
+    "poetic": "那雙磨損的球鞋踩在柏油路上，每一步都刻下屬於街頭的簽名，它們不只是鞋，更是舞者的影子。"
+  },
+  {
+    "term": "Tracksuit",
+    "short_phrase": "經典街舞服裝，運動領袖氣場。",
+    "description": "Tracksuit：經典街舞服裝。文化意義：寬鬆運動套裝代表1980年代 hip-hop 黃金時代的休閒與態度，常見於 crew 表演與 battle。",
+    "poetic": "運動外套在風中獵獵作響，像一面流動的戰旗，宣告舞者來自街頭，卻擁有無可取代的王者氣場。"
+  },
+  {
+    "term": "Toprock",
+    "short_phrase": "站立預備步伐，宣告主場之前奏。",
+    "description": "Toprock：Breaking 舞者在站立狀態下進行的舞步。文化意義：是進入地板動作前的準備與展示，也是舞者建立個人風格、感受音樂節奏的關鍵階段。源自紐約布朗克斯，融合了 Salsa 等多種元素。",
+    "poetic": "重力還未接管之前，他在節奏的浪尖上踮足起舞，toprock 的步伐，是宣告主場的最傲慢前奏。"
+  },
+  {
+    "term": "Footwork / Downrock",
+    "short_phrase": "地面靈巧步伐，空間掌控與創造。",
+    "description": "Footwork / Downrock：Breaking 中在地面上依靠手腳支撐進行的步伐移動。文化意義：展現舞者的敏捷、節奏感與創造力，如 six-step 是最基礎的步法。在地面的低姿態中展現對空間的極致掌控。",
+    "poetic": "以手代腳，他在大地的棋盤上迅速走位，footwork 的六步旋轉，把街頭的局促割裂成無限的宇宙。"
+  },
+  {
+    "term": "MCing / Rapping",
+    "short_phrase": "說唱之魂，引爆空氣之咒語。",
+    "description": "MCing / Rapping：Hip-Hop 四大元素之一，負責在派對中帶動氣氛或進行韻律說唱。文化意義：與 DJing、Breaking、Graffiti 共同構成紐約 1970 年代的街頭文化，為舞者提供情感共鳴與敘事背景。",
+    "poetic": "麥克風是他的權杖，字句如子彈般擊穿夜色，MC 的韻腳引爆了空氣，讓舞者的跳躍有了魂魄。"
+  },
+  {
+    "term": "Graffiti Art",
+    "short_phrase": "街頭視覺延展，不羈的灰牆畫布。",
+    "description": "Graffiti Art：塗鴉藝術，Hip-Hop 四大元素之一。文化意義：透過噴漆在牆壁、地鐵塗抹字母與圖案，象徵聲音在視覺上的延伸，與街舞共同表達邊緣青年的反叛與存在感。",
+    "poetic": "城市的灰牆是他們不羈的畫布，噴漆罐嘶嘶作響，把街頭的憤怒與驕傲化作永不褪色的狂草。"
+  },
+  {
+    "term": "Step Up Franchise",
+    "short_phrase": "街舞推廣影視，引領全球潮流。",
+    "description": "Step Up Franchise：《舞力全開》系列電影。文化意義：推動街舞流行文化發展的關鍵影視作品，將多種街舞風格在大銀幕上以戲劇化方式呈現，啟發了全球無數年輕人投入街舞社群。",
+    "poetic": "銀幕上的汗水與光影交織，Step Up 把街頭的 cypher 搬進了全世界的客廳，讓每一次心跳都跟著節拍起舞。"
+  },
+  {
+    "term": "Ballroom Culture",
+    "short_phrase": "避風港式地下，身分宣告高貴感。",
+    "description": "Ballroom Culture：起源於紐約的地下文化。文化意義：由 LGBTQ+（特別是非裔及拉丁裔）社群建立的避風港，是 Voguing 的誕生地，透過 Drag Balls 探索性別、身分認同，挑戰社會標準。",
+    "poetic": "在被世界遺忘的地下室裡，他們戴上皇冠，Ballroom 的走秀是無聲的宣告：我們天生高貴，無可取代。"
+  },
+  {
+    "term": "Soul Train",
+    "short_phrase": "靈魂列車，跨越時代之律動。",
+    "description": "Soul Train：《靈魂列車》電視節目。文化意義：1970年代起在美國播出的音樂舞蹈節目，推廣了 Locking、Waacking 等風格，讓非裔美國人的街舞文化首次進入全美家庭視野。",
+    "poetic": "那節滿載靈魂的列車呼嘯駛過七零年代的螢幕，舞者在通道中滑行，為一個時代的律動寫下最閃亮的註解。"
+  },
+  {
+    "term": "Don Campbell",
+    "short_phrase": "Locking創始，時光快門之定格。",
+    "description": "Don Campbell：Locking 創始人。文化意義：1960年代末期發明了 Locking，並成立 The Lockers 舞團，將這種結合默劇、喜劇與 Funk 音樂的舞蹈推廣至全球。",
+    "poetic": "他的一個停頓，像是在時光裡按下快門；Don Campbell 用他的鎖，解開了全世界緊繃的眉頭。"
+  },
+  {
+    "term": "Waving",
+    "short_phrase": "無骨水流感，身體漣漪传递。",
+    "description": "Waving：如波浪般在身體各部位傳遞的舞蹈技巧。文化意義：受默劇與放克音樂啟發，強調流暢度與控制力，將身體幻化為無骨架的水流形式。",
+    "poetic": "不帶一根骨頭，他讓音符化作漣漪，在指尖與肩膀之間流浪，把肉體變成了最柔軟的波浪。"
+  },
+  {
+    "term": "Tutting",
+    "short_phrase": "精緻幾何形狀，法老的街法密碼。",
+    "description": "Tutting：模仿古埃及象形文字和幾何圖形的舞蹈風格。文化意義：利用手部、手臂與關節創造出精密的直角與幾何形狀，極大化了舞者對細節的掌控。",
+    "poetic": "手指彎折成法老的密碼，手臂搭建出無形的金字塔，他在虛空中用直角雕刻街頭的信仰。"
+  },
+  {
+    "term": "Animation Dance",
+    "short_phrase": "定格動畫錯覺，幀感視覺欺騙。",
+    "description": "Animation Dance：靈感來自早期定格動畫的舞蹈。文化意義：結合了慢動作、抽搐與幻視效果，舞者宛如螢幕上被一格格播放的動畫角色。",
+    "poetic": "時間被他切成無數個碎片，每一幀定格都是一場視覺欺騙，真實與虛幻在抽搐中徹底模糊。"
+  },
+  {
+    "term": "Robot / Botting",
+    "short_phrase": "齒輪式機械感，冷酷科技致敬。",
+    "description": "Robot / Botting：模仿機器人移動的舞蹈風格。文化意義：1960-70年代流行，深受科幻電影與自動化技術影響，強調理性、僵硬與冷酷的視覺效果。",
+    "poetic": "摒棄了人類的溫濕，他為自己裝上齒輪與程式碼，用最冰冷的關節，敲打出對科技時代的浪漫致敬。"
+  },
+  {
+    "term": "Chicago Footwork",
+    "short_phrase": "極速腳下閃電，160 BPM之狂飆。",
+    "description": "Chicago Footwork：極高速且繁複的步法舞蹈。文化意義：源自芝加哥，伴隨 BPM 達 160 的 Juke/Footwork 音樂，是當地黑人青年用以替代幫派暴力的舞蹈語言。",
+    "poetic": "雙腳以肉眼難辨的速度交織，他把閃電踩在腳底，160 BPM 的心跳是芝加哥街頭最不羈的狂飆。"
+  },
+  {
+    "term": "Memphis Jookin",
+    "short_phrase": "黑幫芭蕾美學，幽靈滑行之站立。",
+    "description": "Memphis Jookin：充滿彈性、滑步與腳尖站立技巧的舞蹈。文化意義：被稱為「黑幫芭蕾」，起源於孟菲斯的地下舞池，結合了滑順與街頭的粗獷力量。",
+    "poetic": "用球鞋跳著街頭的芭蕾，他在柏油路上如幽靈般滑行，腳尖撐起的不只是重量，還有孟菲斯的靈魂。"
+  },
+  {
+    "term": "Turfing",
+    "short_phrase": "社會宣示之滑行，無聲故事講述。",
+    "description": "Turfing：結合啞劇與滑步的故事性街舞。文化意義：源自加州奧克蘭，全名為 Taking Up Room on the Floor，常在公共空間展現，帶有強烈的社會宣示與抗議意涵。",
+    "poetic": "紅綠燈下的斑馬線是他的舞台，無聲的滑步與折疊，講述著這座城市裡那些無法大聲嘶吼的故事。"
+  },
+  {
+    "term": "Litefeet",
+    "short_phrase": "地鐵派對能量，帽子戲法活力。",
+    "description": "Litefeet：充滿活力、常伴隨帽子或鞋子戲法的紐約街舞。文化意義：誕生於紐約地鐵和哈林區，深受 Showtime 表演文化影響，是年輕世代的能量宣洩。",
+    "poetic": "車廂的扶手是他的道具，帽子在指尖旋轉，他在轟隆前行的列車裡點燃紐約最狂熱的青春。"
+  },
+  {
+    "term": "Flexing / Bone Breaking",
+    "short_phrase": "扭轉極端張力，肉體驚悚美學。",
+    "description": "Flexing / Bone Breaking：以極端關節扭轉與幻覺動作為主的舞蹈。文化意義：源於布魯克林，帶有強烈的敘事性與驚悚美學，展示了肉體極限的突破。",
+    "poetic": "手臂以不可思議的角度折疊，他把痛覺變成藝術，每一聲關節的脆響都是打破常規的勝利。"
+  },
+  {
+    "term": "Strutting",
+    "short_phrase": "直線步伐魅力，節拍攻城掠地。",
+    "description": "Strutting：以直線前進與後退走位為基礎的舞蹈風格. 文化意義：舊金山發展出的放克舞蹈，具高度編排性，常有軍隊般整齊劃一的表演形式。",
+    "poetic": "直來直往的步伐裡藏著萬種風情，他們像一支沒有槍砲的街頭軍隊，用節奏攻城掠地。"
+  },
+  {
+    "term": "Boogaloo",
+    "short_phrase": "流暢圓潤律動，骨盆熱情燃燒。",
+    "description": "Boogaloo：一種流暢、律動感強、強調髖部與腿部劃圈移動的舞蹈。文化意義：Electric Boogaloos 將其發揚光大，是放克舞蹈的核心風格之一。",
+    "poetic": "膝蓋與骨盆畫出撩人的圓弧，他讓放克在血液裡燃燒，身體像被賦予生命的橡皮，隨興而迷人。"
+  },
+  {
+    "term": "New Style Hip Hop",
+    "short_phrase": "工作室精緻嘻哈，流行MV之語彙。",
+    "description": "New Style Hip Hop：九零年代後發展出的工作室嘻哈風格。文化意義：強調歌詞對應與編排，融合了多種街舞風格，大量出現在 MV 與商業演出中。",
+    "poetic": "把地下世界的狂野裝進精密的編排裡，每一個停頓都咬中歌詞的靈魂，把街頭帶上了最高調的電視牆。"
+  },
+  {
+    "term": "L.A. Style",
+    "short_phrase": "精準爆發編排，性感極速切換。",
+    "description": "L.A. Style：洛杉磯發展出的編舞風格。文化意義：強調極具爆發力、速度切換與微小細節的編排，深深影響了當代流行音樂舞蹈市場。",
+    "poetic": "快慢之間毫無預警的切換，他用身體寫程式，精準得讓人起雞皮疙瘩，卻又性感得無可救藥。"
+  },
+  {
+    "term": "Jazz Funk",
+    "short_phrase": "柔美爆發交響，女王強大氣場。",
+    "description": "Jazz Funk：結合爵士與街舞爆發力的融合風格。文化意義：既保留了爵士舞的性感線條與技巧，又加入了 Hip-Hop 的重擊與力量，是商業編舞的主流。",
+    "poetic": "優雅與暴力在此完美媾和，她在甩髮與重踩之間，散發著致命的吸引力與不容侵犯的女王氣場。"
+  },
+  {
+    "term": "Dancehall",
+    "short_phrase": "加勒比海之野性，骨盆原始震動。",
+    "description": "Dancehall：源自牙買加的舞蹈與音樂風格。文化意義：反映了加勒比海地區的生活方式，動作極具野性、節奏感與社交意味，是街頭派對的重要元素。",
+    "poetic": "骨盆的震動是加勒比海的浪潮，每一滴防曬與汗水都在牙買加的烈日下，蒸發成最原始的狂歡。"
+  },
+  {
+    "term": "Afro Dance",
+    "short_phrase": "大陸生命脈動，原始呼喚節拍。",
+    "description": "Afro Dance：泛指源於非洲各地的現代街頭舞蹈（如 Azonto, Gwara Gwara）。文化意義：以複雜的節奏律動、接地氣的步伐展現強大的文化凝聚力。",
+    "poetic": "塵土飛揚中踩出生命的脈動，他的脊椎連接著大地，把千年的部落呼喚跳成現代最火熱的節拍。"
+  },
+  {
+    "term": "Bounce",
+    "short_phrase": "解放慶祝震動，紐奧良狂熱夜。",
+    "description": "Bounce (New Orleans Bounce)：節奏快速、以臀部震動為主的舞蹈。文化意義：深植於紐奧良地區，帶有強烈的解放與慶祝意涵，對近代流行文化有深遠影響。",
+    "poetic": "震動、彈跳、再震動，這裡是紐奧良的狂歡夜，不需思考，只要讓靈魂跟著臀部的節拍一同瘋狂。"
+  },
+  {
+    "term": "Detroit Jit",
+    "short_phrase": "汽車大城加速，手腳閃身狂飆。",
+    "description": "Detroit Jit：快速步伐與雙手同步揮舞的底特律專屬街舞。文化意義：誕生於七零年代，曾是街頭幫派的交流方式，後來演變為充滿活力的在地文化驕傲。",
+    "poetic": "手腳像安裝了加速器，他在底特律的夜色裡撕裂空氣，腳下的每一步都在為這座汽車大城重新上膛。"
+  },
+  {
+    "term": "Crip Walk (C-Walk)",
+    "short_phrase": "西岸傲慢滑行，拼寫街頭驕傲。",
+    "description": "Crip Walk (C-Walk)：原為洛杉磯 Crip 幫派的標誌性步伐。文化意義：透過腳步在地上拼寫出幫派名稱或字母，後逐漸演化流行，成為單純的舞蹈表現形式。",
+    "poetic": "曾經是致命的暗號，如今是街頭的密語，腳尖與腳跟的交錯滑行，藏著西岸最冷酷的驕傲。"
+  },
+  {
+    "term": "Harlem Shake",
+    "short_phrase": "肩頸咆哮抖動，主宰狂喜本能。",
+    "description": "Harlem Shake：發源於紐約哈林區的全身抖動舞蹈。文化意義：伴隨東岸嘻哈音樂，以肩膀的搖晃與誇張的手勢表達狂喜與自信。",
+    "poetic": "肩膀不由自主地抽搐，他用哈林區的態度告訴世界，不用章法，只要敢抖，你就是街頭的主宰。"
+  },
+  {
+    "term": "Jerkin'",
+    "short_phrase": "倒退滑步美學，網路次文化潮。",
+    "description": "Jerkin'：穿著緊身牛仔褲與鮮豔服飾，以倒退滑步（Reject）為主的舞蹈。文化意義：2000年代末期洛杉磯的青年次文化，帶起了一波網路舞蹈模仿熱潮。",
+    "poetic": "彩色滑板鞋踩著倒退的步伐，他們在網路世代的鏡頭前，用 Jerkin' 宣告了次文化的新法則。"
+  },
+  {
+    "term": "Baltimore Club Dance",
+    "short_phrase": "俱樂部強勁能量，節拍轟炸之美。",
+    "description": "Baltimore Club Dance：伴隨強勁 Baltimore Club 樂曲的狂熱舞蹈。文化意義：節拍強烈，動作快速且粗獷（如 Crazy Legs），象徵美國東岸派對的極致能量。",
+    "poetic": "超高分貝的鼓點轟炸，他用快到模糊的舞步回應，巴爾的摩的俱樂部裡，沒有疲憊，只有燃燒。"
+  },
+  {
+    "term": "UK B-Boy Championships",
+    "short_phrase": "倫敦角鬥戰場，至高無上榮耀。",
+    "description": "UK B-Boy Championships：創辦於英國的世界級街舞大賽。文化意義：歐洲歷史最悠久、最具影響力的賽事之一，匯聚了全球頂尖的 Breaking、Popping、Hip-Hop 舞者。",
+    "poetic": "倫敦的聚光燈下，來自世界的舞者如角鬥士般登場，在這裡，只用實力說話，只為至高無上的榮耀。"
+  },
+  {
+    "term": "Freestyle Session",
+    "short_phrase": "西岸真實街頭，汗水珍貴交流。",
+    "description": "Freestyle Session：美國西岸最傳奇的 Breaking 賽事。文化意義：以強調 Cypher 交流、原生街頭氛圍與原汁原味的 Hip-Hop 文化著稱，是許多舞者的朝聖地。",
+    "poetic": "沒有華麗的舞台，只有圍攏的人群與滿耳的純粹節奏；這裡是西岸的真實街頭，汗水比獎盃更珍貴。"
+  },
+  {
+    "term": "Summer Dance Forever",
+    "short_phrase": "Judge Battle平等，不死之夏狂歡。",
+    "description": "Summer Dance Forever：荷蘭阿姆斯特丹的知名街舞節。文化意義：特點是決賽評審必須親自下場與選手對戰（Judge Battle），將「沒有人是絕對的神」的街舞精神發揮到極致。",
+    "poetic": "當評審脫下外套走進舞池，階級與頭銜瞬間崩塌；夏日永遠不死，因為舞池裡只有永恆的平等與狂歡。"
+  },
+  {
+    "term": "Keep On Dancing (KOD)",
+    "short_phrase": "世界節奏對話，致敬亚洲之光。",
+    "description": "Keep On Dancing (KOD)：亞洲最具影響力的國際街舞賽事之一。文化意義：始於中國，推動了亞洲街舞社群與世界的接軌，並舉辦過國家間的團隊大賽。",
+    "poetic": "東方的龍脊與西方的放克碰撞，KOD 的舞台上，國界被節奏消融，留下的是對同一信仰的致敬。"
+  },
+  {
+    "term": "World of Dance (WOD)",
+    "short_phrase": "影視視覺風暴，商業藝術頂峰。",
+    "description": "World of Dance (WOD)：全球規模最大的編舞與街舞賽事. 文化意義：以高水準的團隊編排為核心，將街舞舞台推向影視化與極致的商業藝術頂峰。",
+    "poetic": "完美無瑕的走位、震撼的齊舞爆發，WOD 是一場視覺的風暴，用最華麗的陣列征服全世界的螢幕。"
+  },
+  {
+    "term": "Hip Hop International (HHI)",
+    "short_phrase": "奧林匹克齊舞，海嘯般的团队力量。",
+    "description": "Hip Hop International (HHI)：被譽為奧林匹克級別的街舞賽事。文化意義：擁有嚴格的評分標準，每年吸引數千名各國代表隊參賽，極大化了齊舞（Mega Crew）的視覺張力。",
+    "poetic": "當數十人呼吸同步、動作如一，HHI 的舞台上再沒有個人，只有如海嘯般席捲而來、令人窒息的團隊巨浪。"
+  },
+  {
+    "term": "R16 Korea",
+    "short_phrase": "精密數據評分，首爾巔峰競技。",
+    "description": "R16 Korea：韓國主辦的國際 B-Boy 賽事與城市文化節。文化意義：引進了標準化的評分系統，將 Breaking 與韓國強大的流行娛樂產業與國家支持相結合。",
+    "poetic": "精密的評分與狂熱的現場相互撞擊，首爾的夜空下，B-Boy 們把物理極限推向了數據也無法衡量的巔峰。"
+  },
+  {
+    "term": "Outbreak Europe",
+    "short_phrase": "斯洛伐克街舞祭，地下嘻哈精神。",
+    "description": "Outbreak Europe：於斯洛伐克舉辦的歐洲重量級街舞派對賽事。文化意義：以其狂野的派對氛圍、數百人的大圓圈 Cypher 聞名，堅持最地下的嘻哈精神。",
+    "poetic": "啤酒、汗水、徹夜不休的音樂，這不是一場嚴肅的比賽，這是一場獻給全歐洲 Hip-Hop 子民的狂歡祭典。"
+  },
+  {
+    "term": "Silverback Open",
+    "short_phrase": "全美野蠻對決，技術驗金石。",
+    "description": "Silverback Open：美國最具代表性的大型破舞大賽之一。文化意義：由愛好者資助，提供高額獎金，吸引了全世界最高水準的舞者參戰，被視為技術驗金石。",
+    "poetic": "重賞之下必有勇夫，全美最野蠻的對決在此上演，Silverback 只崇拜強者，只向無可挑剔的技巧低頭。"
+  },
+  {
+    "term": "The Notorious IBE",
+    "short_phrase": "荷蘭街舞烏托邦，全球舞者之家。",
+    "description": "The Notorious IBE：荷蘭赫倫主辦的老牌街舞祭。文化意義：無數街舞賽制的發源地（如七殺戰），強調交流大於競技，是一年一度的全球舞者大團圓。",
+    "poetic": "這是一座只為街舞而生的烏托邦，沒有火藥味，只有無盡的擁抱與分享，IBE 讓全世界的流浪舞者找到了家。"
+  },
+  {
+    "term": "Groove",
+    "short_phrase": "舞蹈靈魂基礎，音樂呼吸共鳴。",
+    "description": "Groove：律動，舞蹈的靈魂基礎。文化意義：舞者對音樂節拍、重音與旋律的身體反應，是判斷一名舞者是否「懂音樂」的最直觀標準，超越了動作本身的難度。",
+    "poetic": "看不見的波浪在脊索裡蔓延，Groove 讓他化身音樂的實體，每一次呼吸都在與節拍進行最深情的接吻。"
+  },
+  {
+    "term": "Foundation",
+    "short_phrase": "風格核心詞彙，扎根歷史土壤。",
+    "description": "Foundation：基礎，街舞風格的核心動作與歷史觀念。文化意義：各風格的根基，舞者發揮創意前必須掌握的「詞彙」，沒有 Foundation 的舞蹈被視為失去靈魂。",
+    "poetic": "萬丈高樓平地起，Foundation 是他腳下最堅實的土壤，把地基扎在歷史深處，才能在天空自由地狂舞。"
+  },
+  {
+    "term": "Musicality",
+    "short_phrase": "音樂視覺翻譯，舞動的樂器感。",
+    "description": "Musicality：音樂性。文化意義：舞者拆解、表達音樂層次（人聲、鼓點、吉他等）的能力，高段的 Musicality 能讓觀眾產生「他就是樂器」的錯覺。",
+    "poetic": "他是被施了魔法的共鳴箱，把薩克斯風的悠揚和貝斯的低吼，用每一次肌肉的緊繃與舒展，翻譯成絕美的視覺。"
+  },
+  {
+    "term": "Call Out",
+    "short_phrase": "街頭挑釁對決，實力死磕到底。",
+    "description": "Call Out：叫陣，正式的挑釁與挑戰。文化意義：當舞者不服判決，或想證明自己更強時，在眾人面前指向對方發起即興對決，是街舞中最具火藥味的文化。",
+    "poetic": "手指直指你的鼻尖，那是街頭最不留退路的宣戰照會；沒有裁判，不發獎牌，輸贏全憑在圓圈裡的死磕到底。"
+  },
+  {
+    "term": "Routine",
+    "short_phrase": "袖口連擊利刃，團隊默契展現。",
+    "description": "Routine：排舞 / 套路。文化意義：舞者預先編排好的一段動作，常在 Battle 的關鍵時刻使出，或在雙人 / 團隊對決中用來展現默契與壓倒性氣勢。",
+    "poetic": "這是藏在袖口裡的利刃，當兩人動作在同一秒完美重疊，這段預謀已久的 Routine 瞬間把對手逼入絕境。"
+  },
+  {
+    "term": "Commando",
+    "short_phrase": "輪番上陣連擊，氣壓極限覆蓋。",
+    "description": "Commando：團隊連擊。文化意義：在 Crew Battle 中，團員們不間斷地連續出場，運用走位、疊羅漢或快速交接，讓對手沒有喘息的空間。",
+    "poetic": "他們是輪番上陣的狼群，前仆後繼、一浪高過一浪，用眼花撩亂的火力覆蓋，將場上的空氣壓縮到極限。"
+  },
+  {
+    "term": "Bite / Biting",
+    "short_phrase": "抄襲行為鄙視，尊嚴轟然倒塌。",
+    "description": "Bite / Biting：抄襲。文化意義：在街舞圈中被極度鄙視的行為，指未經授權完全照搬他人的原創動作（Signature move），常被對手用雙手合拍手臂的動作嘲諷。",
+    "poetic": "偷來的武器閃不出榮耀的光芒；當雙臂合併拍響的那一聲嘲諷，抄襲者在街頭的尊嚴已轟然倒塌。"
+  },
+  {
+    "term": "Burn",
+    "short_phrase": "心理壓制火花，氣勢巔峰摧毀。",
+    "description": "Burn：擊敗對手，或極具攻擊性的挑釁動作。文化意義：在 Battle 中做出讓對手看似愚蠢、或氣勢完全壓制對方的舉動，是心理戰的重要一環。",
+    "poetic": "一個手勢就把你引以為傲的自信燒成灰燼；在這虛擬的競技場上，Burn 是兵不血刃的最高級屠殺。"
+  },
+  {
+    "term": "Crash",
+    "short_phrase": "地心引力討回，失誤後的長嘆。",
+    "description": "Crash：失誤 / 崩壞。文化意義：舞者在執行高難度動作時失敗摔倒，或完全失去節奏，在 Battle 中通常意味著失分或直接敗北。",
+    "poetic": "地心引力殘酷地討回了它的主權；那一聲沉悶的重摔，把所有編排好的張狂，摔成了舞池裡最寂靜的長嘆。"
+  },
+  {
+    "term": "Kill the Beat",
+    "short_phrase": "完美命中爆點，節拍之神定格。",
+    "description": "Kill the Beat：完美契合音樂。文化意義：舞者在即興中不可思議地命中了音樂的爆點（如突然的停頓或重音），引發全場暴動歡呼的至高瞬間。",
+    "poetic": "當重低音砸下的那一毫秒，他如閃電般定格；全場沸騰尖叫，因為他徒手殺死了節拍，成了這秒鐘的神。"
+  },
+  {
+    "term": "Hype Man",
+    "short_phrase": "氣氛引爆喉嚨，熱血永不冷卻。",
+    "description": "Hype Man：氣氛帶動者。文化意義：在賽事中拿著麥克風，用語言、口號帶動觀眾情緒的 MC，是維持活動能量不墜的關鍵靈魂人物。",
+    "poetic": "他的喉嚨裡藏著一整支擴音喇叭，幾句嘶吼就把場館的屋頂掀翻，只要他還握著麥克風，熱血就永遠不會冷。"
+  },
+  {
+    "term": "Judge Showcase",
+    "short_phrase": "頂點模樣展示，自證實力儀式。",
+    "description": "Judge Showcase：評審秀。文化意義：賽事開始前，由裁判進行的個人 Solo 表演，不僅是自證實力的儀式，更是定調整場比賽氛圍的最高指導原則。",
+    "poetic": "王座上的神明親自走下凡間展示奇蹟；短短一分鐘的 Judge Solo，是告訴所有挑戰者：這，才是頂點的模樣。"
+  },
+  {
+    "term": "DJing",
+    "short_phrase": "掌控宇宙律動，唱盤心跳操控。",
+    "description": "DJing：街舞賽事核心。文化意義：掌控音樂的人，決定了舞者的情緒與發揮，厲害的 DJ 懂得如何「給招」，讓舞者能發揮出 200% 的實力。",
+    "poetic": "唱盤是他的方向盤，指尖操控著全場數百人的心跳。只要他一切換音軌，整個宇宙都會乖乖跟著他的律動旋轉。"
+  },
+  {
+    "term": "Mr. Wiggles",
+    "short_phrase": "嘻哈百科全書，兩大傳奇功臣。",
+    "description": "Mr. Wiggles：傳奇街舞大師。文化意義：Rock Steady Crew 與 Electric Boogaloos 雙料成員，身兼塗鴉畫家與音樂人，是活生生的嘻哈百科全書。",
+    "poetic": "帶著墨鏡與鴨舌帽，他是兩大傳奇舞團的驕傲交集；Wiggles 隨手一個 Wave，都在訴說四十年的純粹嘻哈史。"
+  },
+  {
+    "term": "Popin' Pete",
+    "short_phrase": "劃破空氣脈衝，放克信仰傳承。",
+    "description": "Popin' Pete：Popping 傳奇舞者。文化意義：Electric Boogaloos 核心成員，Boogaloo Sam 的親弟弟，其舞步影響了包含麥可傑克森在內的無數巨星。",
+    "poetic": "他的每一次 Pop 都俐落得能劃破空氣，麥可傑克森也為之著迷；Pete 是街頭的永動機，永遠傳授著最正宗的放克信仰。"
+  },
+  {
+    "term": "Shabba-Doo / Ozone",
+    "short_phrase": "螢幕不羈偶像，好萊塢街舞魅力。",
+    "description": "Shabba-Doo / Ozone：街舞界的傳奇偶像。文化意義：The Lockers 初期成員，電影《Breakin'》的主角，他把街舞的狂放與好萊塢的魅力完美結合。",
+    "poetic": "他是螢幕上無可替代的 Ozone，那自信的笑容與不羈的鎖舞，讓無數孩子在廢紙箱上開始了他們的舞蹈夢。"
+  },
+  {
+    "term": "Willi Ninja",
+    "short_phrase": "Voguing教父忍者，邊緣角落之王。",
+    "description": "Willi Ninja：Voguing 教父。文化意義：House of Ninja 創始人，將 Voguing 從地下 Ballroom 帶向國際時尚界與主流媒體，被譽為該風格的終極指標。",
+    "poetic": "他的手指舞動如摺紙般精緻，又如忍者般冷酷致命；Willi 用身體重新定義了時尚，在邊緣的角落裡加冕為王。"
+  },
+  {
+    "term": "Leiomy Maldonado",
+    "short_phrase": "女王勇敢宣言，Vogue新世代指標。",
+    "description": "Leiomy Maldonado：Vogue 新世代指標，被譽為 Wonder Woman of Vogue。文化意義：以其標誌性的 Leiomy Lomi（劇烈的甩髮後仰）震撼世界，對當代性別平權與 Ballroom 文化影響深遠。",
+    "poetic": "當她如狂風般甩髮並向後仰倒，整個世界都得為女王讓路；Leiomy 的每一步走秀，都是為真實自我刻下的勇敢宣言。"
+  },
+  {
+    "term": "Windmill (風車)",
+    "short_phrase": "水泥地旋轉狂妄，切割空氣之扇。",
+    "description": "Windmill (風車)：Breaking 經典 Power Move。文化意義：舞者以肩膀和上背部為支點在地面連續旋轉，雙腿以 V 字形在空中掃過。象徵街頭舞蹈的體能進化指標。",
+    "poetic": "他把背脊交給水泥地，雙腿如扇葉般切割空氣；每一次旋轉，都是在重力法則上畫下的狂妄圈號。"
+  },
+  {
+    "term": "Headspin (頭轉)",
+    "short_phrase": "世界高速殘影，撐起地球的傲慢。",
+    "description": "Headspin (頭轉)：Breaking 高難度旋轉技巧。文化意義：僅靠頭部支撐身體重量並進行高速旋轉，是 B-Boy/B-Girl 極致平衡感與耐力的展現，七零年代震驚全美。",
+    "poetic": "世界在他的視線裡化為高速殘影，頭頂是唯一的支點；他用腦袋撐起整個地球，讓街頭的驕傲瘋狂旋轉。"
+  },
+  {
+    "term": "Flare / Thomas (湯瑪斯迴旋)",
+    "short_phrase": "雙臂鐵血軸心，野蠻優雅迴旋。",
+    "description": "Flare / Thomas (湯瑪斯迴旋)：源自體操的 Breaking 重型招式。文化意義：雙手支撐地面，雙腿在空中連續做 V 字型擺動，展示了街舞對其它體育系統的吸收與再造。",
+    "poetic": "雙臂化為堅不可摧的軸心，雙腿在空中拉出霸道的軌跡；他把體操的嚴謹，砸碎成街頭最野蠻的優雅。"
+  },
+  {
+    "term": "Airflare / Airtrack (大風車/拋移)",
+    "short_phrase": "完全無視重力，天空極限大招。",
+    "description": "Airflare / Airtrack (大風車/拋移)：Breaking 極限大招。文化意義：身體在空中翻轉，僅靠雙手交替撐地。它的出現標誌著 Power Move 進入了完全無視地心引力的新紀元。",
+    "poetic": "在每一次換手撐地的懸空瞬間，他都是飛翔的；Airflare 把地板的極限推向天空，重力在他面前宣告破產。"
+  },
+  {
+    "term": "Baby Freeze",
+    "short_phrase": "初生風暴起點，蜷縮寂靜姿態。",
+    "description": "Baby Freeze：Breaking 基礎靜止動作。文化意義：身體蜷縮，手肘頂住腰部支撐全身，是許多初學者接觸地板動作的第一把鑰匙，也是衍生出無數 Freeze 的根基。",
+    "poetic": "宛如嬰兒蜷縮在母體，他在狂暴的節奏裡找到最寂靜的姿態；一個 Baby Freeze，是所有偉大風暴的初生起點。"
+  },
+  {
+    "term": "Chair Freeze (椅子)",
+    "short_phrase": "懸停重力嘲諷，空氣權座支撐。",
+    "description": "Chair Freeze (椅子)：Breaking 核心靜止動作。文化意義：單手撐地，手肘頂住後腰，身體如坐在無形的椅子上側翻停格，展現了舞者對身體重心的完美欺騙。",
+    "poetic": "把空氣當成王座，把手肘視為唯一的靠山；他用一個詭異的角度懸停，彷彿在嘲笑物理學的無能。"
+  },
+  {
+    "term": "Hollowback Freeze",
+    "short_phrase": "脊椎拉滿之弓，反向張力壓印。",
+    "description": "Hollowback Freeze：Breaking 展現腰力的靜止動作。文化意義：雙手撐地（或頭手倒立），腰部向後極度彎曲，雙腳向後勾。極具視覺震撼，象徵極致的反向張力。",
+    "poetic": "脊椎彎成一張拉滿的弓，雙臂如鐵柱般死守防線；Hollowback 是把痛苦與美感壓縮在同一次呼吸裡的藝術。"
+  },
+  {
+    "term": "Backspin (背轉)",
+    "short_phrase": "背部羅盤航向，時代旋轉序曲。",
+    "description": "Backspin (背轉)：最早期的 Breaking 旋轉動作之一。文化意義：仰躺於地面，收攏雙腿以背部為軸心旋轉。為日後發展出 Windmill 等更複雜的旋轉奠定了基礎。",
+    "poetic": "背部是他的羅盤，地面是他的海洋；在背轉的漩渦中，他把街頭的粗糙磨平，旋出一個時代的序曲。"
+  },
+  {
+    "term": "Swipe (跳轉)",
+    "short_phrase": "俐落刀光轉瞬，重力打斷之鞭。",
+    "description": "Swipe (跳轉)：Breaking 基礎過渡動作。文化意義：雙手及單腳撐地，身體翻轉的同時靠爆發力將下半身掃過空中，是早期 B-Boy 必備的移動招式。",
+    "poetic": "身體如鞭子般抽打地面，重力在騰空的瞬間被打斷； Swipe 是街頭戰士在地上劃出的最俐落刀光。"
+  },
+  {
+    "term": "Turtle (烏龜)",
+    "short_phrase": "強者低調潛行，雙肘撐地畫圓。",
+    "description": "Turtle (烏龜)：Breaking 基礎手部旋轉。文化意義：雙手肘頂住腰部，撐起身體在地面上畫圓盤旋，因動作形似烏龜而得名，是練習手腕力量的必經之路。",
+    "poetic": "將所有重量壓在雙肘，他在貼近塵土的低空中緩慢而堅定地盤旋；Turtle 是屬於強者的低調潛行。"
+  },
+  {
+    "term": "1990s / 90s",
+    "short_phrase": "單手倒立極限，孤高霸主旋轉。",
+    "description": "1990s / 90s：Breaking 單手高難度旋轉。文化意義：舞者倒立並僅靠單手在原地進行連續旋轉，需要極高的核心控制，被視為頂尖舞者的象徵。",
+    "poetic": "全世界倒轉，而他只剩下一隻手撐住天地；90s 在原地的瘋狂旋轉，是孤高霸主對極限的終極拷問。"
+  },
+  {
+    "term": "2000s",
+    "short_phrase": "時空屏障陀螺，雙手倒立平衡。",
+    "description": "2000s：Breaking 雙手合抱高難度旋轉。文化意義：1990s 的進階版，舞者倒立時雙手交疊支撐旋轉，比單手旋轉更難以平衡，視覺效果極具未來感。",
+    "poetic": "雙手合十撐起整個顛倒的世界，在眼花撩亂的轉速中，他宛如一枚鑽開時空屏障的陀螺。"
+  },
+  {
+    "term": "Jackhammer (推土機)",
+    "short_phrase": "暴力單手推地，引力碎裂撞擊。",
+    "description": "Jackhammer (推土機)：Breaking 進階手部彈跳. 文化意義：在 Turtle 的基礎上，僅用單手支撐、單手不斷推地使身體上下彈跳旋轉，需要驚人的爆發力。",
+    "poetic": "每一次單手的猛力撞擊都在撼動地板；推土機般暴力的彈跳，把地心引力震成了滿地碎屑。"
+  },
+  {
+    "term": "UFO",
+    "short_phrase": "筆直螺旋槳影，狂暴飛碟潛行。",
+    "description": "UFO：Breaking 高速盤旋動作。文化意義：類似 Turtle，但雙腿筆直向外伸展，旋轉速度極快，狀似飛碟，具有強烈的視覺殘影效果。",
+    "poetic": "雙腿如螺旋槳般甩開，貼地飛行的殘影劃破了空氣；他是一架降落在街頭的狂暴飛碟。"
+  },
+  {
+    "term": "Ticking",
+    "short_phrase": "肌肉微型閃電，精密滴答鐘步。",
+    "description": "Ticking：Popping / Boogaloo 的細碎震動技巧。文化意義：如同秒針走動，舞者在極短的時間內連續進行停頓與 Pop，製造出逐格動畫般的視覺質感。",
+    "poetic": "把時間切成了毫米，他的身體是一座上足發條的鐘，每一次滴答都在肌肉裡引爆微型的閃電。"
+  },
+  {
+    "term": "Strobing (閃爍)",
+    "short_phrase": "閃光斷層幻覺，欺騙肉眼殘影。",
+    "description": "Strobing (閃爍)：Popping 以極度快速且不連續動作組成的技巧。文化意義：模仿派對中的閃光燈效應（Strobe light），讓觀眾的視覺產生斷層感。",
+    "poetic": "他把燈光忽明忽暗的頻率刻進了骨頭裡，在 Strobing 的幻覺中，他的每一個殘影都在欺騙你的眼睛。"
+  },
+  {
+    "term": "Dime Stop",
+    "short_phrase": "乾淨俐落真空，時間瞬間鎖死。",
+    "description": "Dime Stop：極度乾淨俐落的停頓技巧。文化意義：「像把硬幣停在硬幣邊緣」，沒有任何多餘的晃動，是 Animation / Popping 舞者展現控制力的終極標準。",
+    "poetic": "動如雷霆，靜如死灰；當他在高速中瞬間鎖死一切動態，連時間都為這無懈可擊的真空停下了腳步。"
+  },
+  {
+    "term": "Neck-o-flex",
+    "short_phrase": "柔軟無骨蛇行，放克靈魂釋放。",
+    "description": "Neck-o-flex：Boogaloo 經典頭部與頸部律動. 文化意義：頭部、頸部與肩部以極度柔滑、彷彿無骨的方式轉動，是 Electric Boogaloos 的標誌性風格。",
+    "poetic": "脖頸彷彿被抽走了骨頭，像一條蛇在肩膀上慵懶地滑行；放克的靈魂，就在這柔滑的轉動裡悄悄釋放。"
+  },
+  {
+    "term": "Romeo Twist",
+    "short_phrase": "齒輪錯位美感，致命浪漫螺絲。",
+    "description": "Romeo Twist：Boogaloo 代表性轉身動作. 文化意義：身體各部位（關節、臀部、腳踝）依序轉動，如同螺絲般扭轉，展現了身體分離（Isolation）的美感。",
+    "poetic": "身體如齒輪般一節節錯位，又如藤蔓般妖嬈地扭結；Romeo Twist 轉出了街頭最致命的浪漫。"
+  },
+  {
+    "term": "Skeeter Rabbit",
+    "short_phrase": "輕盈低空彈點，滑行童話之舞。",
+    "description": "Skeeter Rabbit：Boogaloo 中的跳躍與滑步組合. 文化意義：以創造者 Skeeter Rabbit 命名，融合了兔子的輕盈彈跳與放克的滑行，極具輕爽感。",
+    "poetic": "腳尖輕點、隨即滑行，他像是一隻踩在雲端的兔子，把沉悶的柏油路跳成了最輕盈的童話。"
+  },
+  {
+    "term": "Point (指點)",
+    "short_phrase": "無形子彈指引，引爆視線爆點。",
+    "description": "Point (指點)：Locking 核心動作. 文化意義：朝不同方向伸出食指指人，源自日常動作，在 Locking 中強調乾淨、具備強烈互動性與喜劇張力。",
+    "poetic": "伸出食指，向虛空發射一顆無形的子彈；這一指引爆了笑聲與驚呼，把所有人的視線牢牢鎖死。"
+  },
+  {
+    "term": "Pacing",
+    "short_phrase": "快速翻飛律動，純粹歡樂脈搏。",
+    "description": "Pacing：Locking 手腕轉動與胸部律動. 文化意義：在胸前回擊無形的鼓點，同時帶有強烈的歡樂情緒，用以填補大動作之間的節奏。",
+    "poetic": "手腕在胸前快速翻飛，敲打著心跳的節拍；他的律動裡沒有悲傷，只有無盡噴發的純粹狂歡。"
+  },
+  {
+    "term": "Punking",
+    "short_phrase": "高傲魅力復仇，華麗眼神反擊。",
+    "description": "Punking：Waacking / Whacking 舞蹈的早期稱呼或戲劇化表現面. 文化意義：源自 1970 年代洛杉磯，帶有強烈的情感發洩與對「被貶低者（Punk）」之名的反擊與顛覆。",
+    "poetic": "把不屑與高傲寫在臉上，將歧視的字眼踩碎在腳底；Punking 是一場最華麗的復仇，用張狂的眼神殺死所有偏見。"
+  },
+  {
+    "term": "Smurf (藍色小精靈)",
+    "short_phrase": "卡通律動彈跳，時代快感地基。",
+    "description": "Smurf (藍色小精靈)：Hip-Hop 基礎派對舞蹈. 文化意義：八零年代初期流行，舞步源於同名卡通的彈跳律動，是許多更複雜 Hip-Hop 舞步的地基。",
+    "poetic": "順著節奏輕盈地沈浮，他是派對裡最悠哉的精靈，用一個簡單的律動，喚醒了一個時代的快樂。"
+  },
+  {
+    "term": "Running Man (跑步人)",
+    "short_phrase": "原地追趕節拍，時代領先步伐。",
+    "description": "Running Man (跑步人)：Hip-Hop 最具標誌性的基礎舞步. 文化意義：模仿原地奔跑的姿態，在八、九零年代極具統治力，幾乎出現在所有黑人音樂 MV 中。",
+    "poetic": "雙腳在原地瘋狂拉扯，彷彿在追趕著永遠不會停歇的節拍；Running Man 把街頭的奔波跳成了最驕傲的姿態。"
+  },
+  {
+    "term": "Roger Rabbit",
+    "short_phrase": "滑稽倒退藝術，優雅節奏切換。",
+    "description": "Roger Rabbit：Hip-Hop 經典倒退舞步. 文化意義：與 Running Man 齊名，腳步向後倒退交錯，源自動畫角色《威探闖通關》的滑稽動作，帶有輕快的反向節奏。",
+    "poetic": "前進的時代裡，他選擇優雅地倒退；Roger Rabbit 把後退的每一步，都滑行成無懈可擊的喜劇藝術。"
+  },
+  {
+    "term": "Robocop (機器戰警)",
+    "short_phrase": "冷酷拔槍定格，影視文化重擊。",
+    "description": "Robocop (機器戰警)：模仿機器戰警開槍動作的派對舞蹈. 文化意義：八零年代影視文化影響街頭舞蹈的絕佳例子，強調機械感與頓點。",
+    "poetic": "拔槍、瞄準、定格；他把電影裡的冷酷裝進了節奏，在舞池中央開出了一記沒有硝煙的重擊。"
+  },
+  {
+    "term": "Bart Simpson (霸子辛普森)",
+    "short_phrase": "隨性反叛滑行，搗蛋鬼式語彙。",
+    "description": "Bart Simpson (霸子辛普森)：滑行與手部揮舞結合的 Hip-Hop 舞步. 文化意義：源自九零年代動畫《辛普森家庭》的流行效應，帶著隨性與反叛的氣質。",
+    "poetic": "手腳向兩側隨性滑開，滿臉寫著不在乎；他是那無可救藥的搗蛋鬼，在節奏裡肆意破壞無聊的規矩。"
+  },
+  {
+    "term": "SpongeBob (海綿寶寶)",
+    "short_phrase": "神經質彈跳，考驗腳踝活力。",
+    "description": "SpongeBob (海綿寶寶)：腳步快速向外彈踢的 Hip-Hop 舞步. 文化意義：源自美國東岸俱樂部，雙腳如鐘擺般向外側彈跳，是考驗腳踝靈活度與耐力的派對名招。",
+    "poetic": "腳跟與腳尖在地板上跳著神經質的探戈，荒謬卻又極度契合音樂；這就是狂熱，無法解釋的街頭狂熱。"
+  },
+  {
+    "term": "Monestary / Monastery",
+    "short_phrase": "前後切換滑行，規律中之叛逆。",
+    "description": "Monestary / Monastery：雙腳一前一後交替彈跳的 Hip-Hop 舞步. 文化意義：中東部地區流行的舞步，結合了律動與滑步，常見於九零年代後半的編舞中。",
+    "poetic": "腳步在前後之間滑行切換，如修道院般規律卻又帶著世俗的叛逆，在鼓點的夾縫中遊刃有餘。"
+  },
+  {
+    "term": "Jacking / The Jack",
+    "short_phrase": "低音震盪波浪，放空儀式律動。",
+    "description": "Jacking / The Jack：House 舞蹈的靈魂律動. 文化意義：上半身前後如波浪般搖擺，模仿身體在音樂重擊下的本能反應，是所有 House 舞步的核心基礎。",
+    "poetic": "胸腔如水泵般吸收著低音的震盪；The Jack 是放空一切的儀式，讓靈魂在四四拍的節奏海嘯中隨波逐流。"
+  },
+  {
+    "term": "Skating / Roller Skating",
+    "short_phrase": "地板打磨圓弧，磁磚滑溜之旅。",
+    "description": "Skating / Roller Skating：House 舞蹈中的滑行步法. 文化意義：靈感來自溜冰鞋在地板上的滑行，舞者雙腳交替滑出流暢的圓弧，是 House 中極具美感的移動。",
+    "poetic": "腳下彷彿長出了輪子，在地板上拉出細膩的長音；他不在跳舞，他是在打磨這座城市最滑溜的磁磚。"
+  },
+  {
+    "term": "Pas de Bourree",
+    "short_phrase": "古典汲取律動，交叉換步細膩。",
+    "description": "Pas de Bourree：源於芭蕾、被街舞吸收的快速交叉步. 文化意義：在 House 中常被用作過渡步（Transition），顯示了街頭舞蹈如何汲取古典藝術並賦予全新的律動。",
+    "poetic": "把高雅的芭蕾拋進地下室的派對，點地、交叉、換步；他在最粗糙的場景裡跳出了渾然天成的細膩。"
+  },
+  {
+    "term": "Farmer (農夫步)",
+    "short_phrase": "原始下盤泥土香，高抬膝之跨步。",
+    "description": "Farmer (農夫步)：House 舞蹈經典舞步. 文化意義：踏步結合高抬膝，如同在泥濘的農田中跨步，充滿強烈的下盤重量感與原始的生命力。",
+    "poetic": "重重地踩下、再奮力拔起，即便身在冷氣房的舞池，踏出的每一步裡都帶著開拓大地的粗獷泥土香。"
+  },
+  {
+    "term": "Train (火車步)",
+    "short_phrase": "加速轟鳴車輪，午夜終點狂熱。",
+    "description": "Train (火車步)：House 舞蹈中的移動步伐. 文化意義：腳步交錯有如火車車輪滾動，隨著 House 音樂的 BPM 不斷加速，帶領舞池的情緒衝向高點。",
+    "poetic": "汽笛拉響，車輪轟鳴；他的雙腳是高速運轉的鋼軌，帶著一整節車廂的狂熱，直衝午夜的終點站。"
+  },
+  {
+    "term": "Turntablism",
+    "short_phrase": "拼貼嘻哈宇宙，黑膠畫布演奏。",
+    "description": "唱盤藝術：超越播歌的 DJ 演奏藝術。文化意義：DJ 透過刮碟（Scratching）、Beat Juggling 等技術，將唱盤轉化為樂器，是推動初期 B-Boy 文化的核心力量。",
+    "poetic": "黑膠是他的畫布，唱針是他的畫筆；在高速的刮擦與拼貼之間，他親手搓出了一個名為嘻哈的宇宙。"
+  },
+  {
+    "term": "Scratching (刮碟)",
+    "short_phrase": "針尖下的嘶吼，迷幻摩擦武器。",
+    "description": "Scratching (刮碟)：在唱盤上前後拉動唱片製造獨特聲響的技術. 文化意義：偶然發明卻成為 Hip-Hop 音樂最經典的聲音，是 DJ 宣告存在感的最強大武器。",
+    "poetic": "那刺耳而迷幻的摩擦聲，是唱片在針尖下的痛呼，也是街頭不安分靈魂最痛快的嘶吼。"
+  },
+  {
+    "term": "Beatboxing (節奏口技)",
+    "short_phrase": "行動喉嚨兵工廠，不插電之節奏。",
+    "description": "Beatboxing (節奏口技)：用口腔模仿鼓機與唱盤聲音的藝術. 文化意義：在沒有設備的街頭，人嘴成為了最方便的擴音器，為 Cypher 和 Rap 提供隨時隨地的節奏。",
+    "poetic": "大鼓在舌尖炸裂，小鼓在齒縫間迴盪；不必插電，他的喉嚨就是一座火力全開的行動兵工廠。"
+  },
+  {
+    "term": "Boom Bap",
+    "short_phrase": "厚重鼓點網，行者心跳底色。",
+    "description": "Boom Bap：九零年代東岸 Hip-Hop 的經典音樂風格. 文化意義：以強烈、有力的鼓點和取樣（Sampling）為特徵，其厚重的節奏感是 Hip-Hop 舞蹈的黃金年代燃料。",
+    "poetic": "沉悶的踢鼓與清脆的小鼓交織成一張巨網；Boom Bap 的重擊，是每一位街頭行者的心跳底色。"
+  },
+  {
+    "term": "G-Funk",
+    "short_phrase": "慵懶絲滑貝斯，加州海風音效。",
+    "description": "G-Funk：九零年代西岸 Hip-Hop 音樂風格. 文化意義：將七零年代 P-Funk 元素融合低沉貝斯與高頻合成器音效，造就了 Popping 等風格在西岸的蓬勃發展。",
+    "poetic": "慵懶的低音貝斯在加州的陽光下融化，高亢的合成器音效如海風般撫過；在 G-Funk 裡，連凶狠都顯得如此絲滑。"
+  },
+  {
+    "term": "Trap Music",
+    "short_phrase": "迷幻碎拍重擊，重塑搖擺形狀。",
+    "description": "Trap Music：起源於南方的 Hip-Hop 分支. 文化意義：2010 年代後統治全球，以快速的 Hi-Hats、深沉的 808 貝斯為特徵，帶來了全新的街舞編排概念與律動習慣。",
+    "poetic": "密集的碎拍如雨點般砸落，808 貝斯在耳膜裡轟炸；Trap 在迷幻的頻率中，重塑了這個世界搖擺的形狀。"
+  },
+  {
+    "term": "Boombox",
+    "short_phrase": "移動祭壇金屬，引爆整街朝拜。",
+    "description": "手提音響：八零年代街頭音樂的圖騰. 文化意義：巨大、耗電的手提播放器，讓音樂得以走出室內，無論在街角或籃球場，打開它就意味著派對的開始。",
+    "poetic": "扛在肩上的不止是沉重的金屬與電池，那是一座隨身攜帶的移動祭壇，按鈕一按，整條街都得向它朝拜。"
+  },
+  {
+    "term": "Block Party",
+    "short_phrase": "廢墟狂歡源頭，封鎖街道解靈。",
+    "description": "街區派對：Hip-Hop 文化的發源地. 文化意義：在紐約布朗克斯等封閉街道上舉辦的社區活動，DJ、MC、B-Boy 與塗鴉藝術家在此匯聚，奠定了四大元素。",
+    "poetic": "封鎖了街道，解開了靈魂；在偷接路燈電源的巨大音響前，最貧窮的社區裡爆發出最富有的狂歡。"
+  },
+  {
+    "term": "Universal Zulu Nation",
+    "short_phrase": "節拍定勝負，廢墟藝術旗幟。",
+    "description": "由 Afrika Bambaataa 創立的國際嘻哈組織. 文化意義：提出「Peace, Love, Unity, and Having Fun」，把街頭幫派的暴戾之氣轉化為對藝術的追求，是嘻哈精神的源頭。",
+    "poetic": "收起球棒與折疊刀，換成紙板與麥克風；Zulu 的旗幟在戰火廢墟中升起，宣告街頭從此用節奏來定勝負。"
+  },
+  {
+    "term": "Grandmaster Flash",
+    "short_phrase": "唱盤魔術閃電，縫合史詩先驅。",
+    "description": "Grandmaster Flash：Hip-Hop 傳奇 DJ 與技術先驅. 文化意義：發明了「Slip-mat」與完善了接歌技術（Quick Mix Theory），從此改變了 DJ 從播歌者變成音樂創造者的歷史。",
+    "poetic": "他的手指在轉盤上跳著最繁複的魔術；閃電大師用精密的計算，把兩首歌的縫隙縫合成不朽的史詩。"
+  },
+  {
+    "term": "Sugarhill Gang",
+    "short_phrase": "饒舌咒語傳遞，商業發行里程碑。",
+    "description": "Sugarhill Gang：錄製第一首將 Hip-Hop 推向主流的饒舌單曲的團體. 文化意義：1979 年《Rapper's Delight》問世，標誌著饒舌音樂正式進入錄音室與商業發行領域。",
+    "poetic": "在此之前，嘻哈只活在街角的磁帶裡；當歡愉的饒舌在電台響起，整個地球都開始學習跟著念誦那神奇的咒語。"
+  },
+  {
+    "term": "Kangol Hat / Bucket Hat",
+    "short_phrase": "街頭騎士鋼盔，壓低眉間殺氣。",
+    "description": "Kangol Hat / Bucket Hat (袋鼠帽/漁夫帽)：八零年代 B-Boy 標配頭飾. 文化意義：不僅是時尚象徵，某些材質也方便舞者在地面進行頭轉等摩擦動作，是實用與潮的完美結合。",
+    "poetic": "壓低的帽沿藏著深不可測的殺氣；那頂不起眼的漁夫帽，是街頭騎士捍衛尊嚴與品味的鋼盔。"
+  },
+  {
+    "term": "Gold Chain / Dookie Chain",
+    "short_phrase": "逆天改命金飾，純粹黑人魂語。",
+    "description": "Gold Chain / Dookie Chain (粗金項鍊)：Hip-Hop 黃金時代的財富與成功象徵. 文化意義：反映了底層黑人對物質成功的渴望與高調炫耀的態度（Bling-Bling），成為饒舌歌手的圖騰。",
+    "poetic": "沉甸甸的純金在胸口閃耀，重得足以壓垮脆弱的脖子，卻是他們用節奏從泥沼裡逆天改命的鐵證。"
+  },
+  {
+    "term": "Fat Laces",
+    "short_phrase": "資源匱乏智慧，炫耀精緻裝甲。",
+    "description": "Fat Laces 寬鞋帶: 早期 B-Boy 的球鞋改裝文化. 文化意義：將普通鞋帶換成極寬的彩色鞋帶，甚至運用各種編織法，展現了「在資源匱乏中創造獨特風格」的街頭智慧。",
+    "poetic": "一雙廉價的球鞋裝上兩條粗壯的鞋帶，瞬間宛如裝備了戰鬥裝甲；在步伐的交錯中，炫耀著窮小子的精緻。"
+  },
+  {
+    "term": "Adidas Superstars / Shell Toes",
+    "short_phrase": "街頭熱潮貝殼頭，與品牌聯手之門。",
+    "description": "Adidas Superstars / Shell Toes (貝殼頭球鞋)：Run-D.M.C. 帶起的全球熱潮. 文化意義：因為一首《My Adidas》，這雙籃球鞋成為 Hip-Hop 歷史上第一雙代表街頭文化的圖騰級鞋款。",
+    "poetic": "拔掉鞋帶，把鞋舌高高翹起；那堅硬的貝殼鞋頭，踢開了運動品牌與街頭音樂聯手的黃金大門。"
+  },
+  {
+    "term": "Dickies / Starter Jackets",
+    "short_phrase": "城市冷漠盔甲，耐磨工裝傳奇。",
+    "description": "Dickies / Starter Jackets (工裝褲與運動外套)：美國西岸及九零年代街頭服飾. 文化意義：耐磨、寬鬆，最初為藍領階級的工作服，後來被街舞與滑板文化挪用，成為經典街頭 Look。",
+    "poetic": "耐磨的帆布與鮮豔的尼龍，包裹著躁動不安的青春；那不是工作服，那是他們抵禦城市冷漠的盔甲。"
+  },
+  {
+    "term": "Durag / Do-Rag",
+    "short_phrase": "鎖住驕傲波浪，純粹非裔靈魂。",
+    "description": "Durag / Do-Rag：原本用來保護黑人捲髮髮型的頭巾. 文化意義：從居家實用配件演變為極具 Hip-Hop 認同感的時尚單品，帶有強烈的非裔美國人文化驕傲。",
+    "poetic": "在腦後綁緊一個結，絲滑的布料緊貼著頭皮；Durag 鎖住了他們最驕傲的波浪捲，也綁住了純粹的黑人魂。"
+  },
+  {
+    "term": "Bandana",
+    "short_phrase": "西岸鐵血陣營，手帕染透傳奇。",
+    "description": "Bandana (變形蟲頭巾)：西岸幫派與街舞文化的重要配件. 文化意義：紅色或藍色的變形蟲圖騰原本用來區分幫派陣營，後來被大量應用在服裝配件中，成為街頭強硬風格的代表。",
+    "poetic": "摀在臉上截斷呼吸，或是綁在手腕上宣告陣營；一方小小的手帕，染透了西岸街頭的鐵血與傳奇。"
+  },
+  {
+    "term": "New York City Breakers (NYCB)",
+    "short_phrase": "布朗克斯超級英雄，衝破主流視野。",
+    "description": "New York City Breakers (NYCB)：八零年代極具影響力的 Breaking 舞團. 文化意義：不僅活躍於《Beat Street》等電影，更曾在美國前總統雷根面前表演，將 Breaking 帶入主流社會。",
+    "poetic": "他們是衝破布朗克斯的超級英雄；把沾滿粉筆灰的地板動作，搬上了總統府那塵不染的紅地毯。"
+  },
+  {
+    "term": "Zulu Kings",
+    "short_phrase": "街頭古老薩滿，永不熄滅之火。",
+    "description": "Zulu Kings：Hip-Hop 史上最早的 B-Boy 舞團之一. 文化意義：隸屬於 Zulu Nation，肩負著傳播和平與街舞歷史的重任，他們是延續到今天的活生生街頭化石。",
+    "poetic": "他們是部落裡最古老的薩滿，用最原汁原味的步伐，日復一日向年輕一輩傳遞著永不熄滅的聖火。"
+  },
+  {
+    "term": "Elite Force Crew",
+    "short_phrase": "定義律動聖經，商業舞台律動之王。",
+    "description": "Elite Force Crew： Hip-Hop 舞蹈歷史上最重要的團體之一. 文化意義：將派對舞蹈系統化並推波助瀾至全球，成員參與了無數巨星（如瑪麗亞凱莉、麥可傑克森）的 MV 編舞。",
+    "poetic": "他們不只創造律動，他們定義了律動；Elite Force 在鏡頭前的一個隨性彈跳，成了全世界模仿的聖經。"
+  },
+  {
+    "term": "Mop Top Crew",
+    "short_phrase": "地下室舞蹈革命，玩世不恭顛覆。",
+    "description": "Mop Top Crew：連接純粹街頭與商業舞台的傳奇舞團. 文化意義：強調在自由即興中展現個人特色，與 Elite Force 關係密切，是九零年代 Hip-Hop 舞蹈發展的核心推手。",
+    "poetic": "頂著標誌性的拖把頭，他們用最玩世不恭的態度，在紐約的地下室裡排演了一場顛覆世界的舞蹈革命。"
+  },
+  {
+    "term": "Kinjaz",
+    "short_phrase": "致命視覺忍者，東方哲學編排。",
+    "description": "Kinjaz：全球知名的華人及亞裔編舞團體. 文化意義：以忍者為品牌意象，將極精密、高同步率的「L.A. Style」編舞與東方哲學完美融合，在網路上擁有巨大影響力。",
+    "poetic": "黑衣蒙面、刀刃般的同步率；他們是潛伏在音樂節拍裡的忍者，一出鞘便以最致命的視覺奪下王座。"
+  },
+  {
+    "term": "Jabbawockeez (假面舞客)",
+    "short_phrase": "無表情肉體對話，面具下之純粹。",
+    "description": "Jabbawockeez (假面舞客)：戴著白色面具的全球頂流舞團. 文化意義：贏得第一季《ABDC》冠軍，面具剝除了舞者的身分與表情，強迫觀眾將注意力完全集中在純粹的動作與音樂編排上。",
+    "poetic": "沒有五官、沒有表情，只剩純粹的肉體與節拍對話；在白色的面具下，他們放棄了自我，成為了音樂本身。"
+  },
+  {
+    "term": "Duckwalk / Duck Walk (鴨子步)",
+    "short_phrase": "女王氣場侵略，Ballroom 碾壓之美。",
+    "description": "Duckwalk / Duck Walk (鴨子步)：Voguing 的經典地面走位. 文化意義：舞者下蹲到極低，靠腳尖支撐向前彈跳滑行，非常考驗大腿力量與平衡感，常給人驚艷的女王氣場。",
+    "poetic": "蹲至貼地卻依然高傲得不可侵犯；鴨子步彈性十足的侵略感，是 Ballroom 裡最華麗的碾壓。"
+  },
+  {
+    "term": "Hands Performance",
+    "short_phrase": "高貴幻術咒語，溺死指尖之舞。",
+    "description": "Hands Performance：Voguing 中極致的手部表演. 文化意義：透過手指、手腕的快速纏繞與幾何變化來講故事或迷惑對手，源自聾啞人士的手語與古埃及象形文字的啟發。",
+    "poetic": "十根手指如靈蛇般纏繞打結，在虛空中編織著無聲的咒語；那是最高貴的幻術，讓人溺死在她的指尖裡。"
+  },
+  {
+    "term": "Floor Performance",
+    "short_phrase": "絲滑綢緞性感，感官刺激震撼。",
+    "description": "Floor Performance：Voguing 的地板表現. 文化意義：結合了柔韌性與感官刺激，舞者在地面上進行翻滾、劈腿、性感姿態轉換，極具戲劇張力與震撼懾服力。",
+    "poetic": "把地板當成最絲滑的綢緞床單，她的每一次翻滾與劈裂，都在優雅中滲透著毀滅一切的美態。"
+  },
+  {
+    "term": "Death Drop / Spin and Dip",
+    "short_phrase": "終極感嘆號定格，斷線木偶宣告。",
+    "description": "Death Drop / Spin and Dip：Voguing 觀眾最狂熱的終結技. 文化意義：在旋轉後極度戲劇化地倒下，一條腿彎曲、一條腿伸直。它不是摔倒，而是一種宣示「我贏了」的終極感嘆號。",
+    "poetic": "一陣狂風般的旋轉後，她如斷線的木偶般轟然砸向地面；那一聲悶響，把全場的呼吸瞬間掐斷。"
+  },
+  {
+    "term": "Reading (Shade)",
+    "short_phrase": "智力魅力較量，無髒字扒光對手。",
+    "description": "Reading (Shade)：Ballroom 與 Vogue 文化中的「互虧 / 陰影」. 文化意義：用尖酸刻負但不帶實質暴力的幽默言語或舞蹈動作來攻擊對手，是社群內部的一種智力與魅力較量。",
+    "poetic": "一個白眼、一個輕蔑的轉身，勝過千軍萬馬；在 Shade 的藝術裡，她們不用髒字，就能把對手扒得一絲不掛。"
+  },
+  {
+    "term": "House of Ninja",
+    "short_phrase": "多元包容武士，武術融合教父。",
+    "description": "House of Ninja：傳奇的 Vogue 家族. 文化意義：由 Willi Ninja 創立，不同於以往只收 LGBTQ+，他們廣納多元背景的舞者，將武術元素完美融入 Vogue，推向全球舞台。",
+    "poetic": "拔起隱形的武士刀，跨越性別與國界的藩籬；Ninja 家族的暗殺，總是在最柔媚的走秀中猝不及防。"
+  },
+  {
+    "term": "House of Xtravaganza",
+    "short_phrase": "拉丁奢華沸騰，超越極限之美。",
+    "description": "House of Xtravaganza：第一個以拉丁裔為主的傳奇 Vogue 家族. 文化意義：1982 年創立，不僅改變了 Ballroom 的生態，成員更影響了瑪丹娜的《Vogue》MV 與流行文化。",
+    "poetic": "驕陽如火的拉丁血脈在地下室裡沸騰；Xtravaganza 這個名字，代表著永遠超越極限的奢華與張揚。"
+  },
+  {
+    "term": "Seven to Smoke (七殺戰)",
+    "short_phrase": "血染王冠競技，輪番死磕磨坊。",
+    "description": "Seven to Smoke (七殺戰)：一種殘酷而刺激的街舞 Battle 賽制. 文化意義：八名舞者輪流對戰，贏家留在場上接受下一位挑戰，最先贏下七場或在限時內勝場最多者奪冠，極度考驗體力與招式儲備。",
+    "poetic": "車輪戰的血肉磨坊，沒有喘息的空間；你必須一口氣踩著七具『屍體』往上爬，才能戴上那血染的王冠。"
+  },
+  {
+    "term": "Exhibition Battle (表演賽)",
+    "short_phrase": "神明間無壓力對撞，純粹文化交流。",
+    "description": "Exhibition Battle (表演賽)：不設評審的傳奇對決. 文化意義：主辦方特邀兩位或兩對頂尖舞者進行對弈，沒有輸贏判定，純粹為了交流文化與展現最高水平的對峙張力。",
+    "poetic": "拔去了計分的枷鎖，神明與神明的對撞只為了純粹的爽快；在表演賽的烈火裡，唯一的贏家是被燒得沸騰的觀眾。"
+  },
+  {
+    "term": "Cypher King / Queen",
+    "short_phrase": "隱形冠军光芒，人群簇擁之魂。",
+    "description": "Cypher King / Queen：圓圈之王 / 后. 文化意義：沒有獎金或表面的榮耀，指派對或活動中在非正式的圍圈（Cypher）裡跳得最忘我、最能掌控氣氛、備受尊重的隱形冠軍。",
+    "poetic": "不稀罕舞台上刺眼的聚光燈，他們只在人群的簇擁裡發光；沒有獎盃，但所有人甘願為他們嘶吼到天明。"
+  },
+  {
+    "term": "Throwdown",
+    "short_phrase": "見血封喉底牌，尊嚴全開釋放。",
+    "description": "Throwdown：全軍出擊的激烈對決. 文化意義：原意為丟下武器，後演變為雙方賭上一切尊嚴、毫無保留地釋放所有技巧與大招的高強度對抗狀態。",
+    "poetic": "防備與試探已經結束，是時候亮出見血封喉的底牌；Throwdown 的信號一響，沒有人打算站著離開。"
+  },
+  {
+    "term": "Uprock / Rocking",
+    "short_phrase": "站立擬真打鬥，無眼淚探戈。",
+    "description": "Uprock / Rocking：Breaking 的前身與靈魂之一. 文化意義：起源於布魯克林，融合了薩爾沙與幫派互鬥的肢體語言「Jerks & Burns」，舞者在強烈節奏中進行擬真的站立打鬥舞蹈。",
+    "poetic": "他們隔空互毆、模擬開槍與割喉；在不見血的刀光劍影中，Rocking 把街頭的廝殺昇華成了一支沒有眼淚的探戈。"
+  },
+  {
+    "term": "Brooklyn Rock",
+    "short_phrase": "硬質挑釁戰鬥，領域性強勢防守。",
+    "description": "Brooklyn Rock：布魯克林區獨特的戰鬥步. 文化意義：與 Bronx 的 Toprock 不同，它更具挑釁意味，動作直接對準對手的弱點，充滿強烈的領域性與侵略性。",
+    "poetic": "每一步踏下都是對地盤的死守，每一個手勢都是對敵人最粗暴的宣戰；布魯克林的岩石，硬得足以敲碎所有虛偽。"
+  },
+  {
+    "term": "Tagging (簽名)",
+    "short_phrase": "我曾在此證據，揮灑自我的標記。",
+    "description": "Tagging (簽名)：塗鴉文化的最基礎表現. 文化意義：塗鴉藝術家使用特製簽名在牆面留名，宣示「我曾在此」，與街舞在 Cypher 中留下獨特動作（Signature）的概念互相呼應。",
+    "poetic": "一支馬克筆，幾秒鐘的揮灑；在那座冷漠運轉的巨大城市裡，he 強行留下了自己活過的粗糙證據。"
+  },
+  {
+    "term": "Wildstyle (狂野風格)",
+    "short_phrase": "字母爆裂圖騰，拒絕馴化密碼。",
+    "description": "Wildstyle (狂野風格)：極度複雜、難以辨讀的塗鴉字體. 文化意義：塗鴉的最高技術表現，字母互相纏繞、變形，如同街舞中那些變幻莫測的複雜連招與個人特質展示。",
+    "poetic": "字母在牆面上扭結、爆炸、解體；那是只有圈內人才能讀懂的密碼，是拒絕被主流馴化的狂野圖騰。"
+  },
+  {
+    "term": "B-Boy Stance (B-Boy 站姿)",
+    "short_phrase": "自信傲慢盔甲，防禦性態度身姿。",
+    "description": "B-Boy Stance (B-Boy 站姿)：街舞者標誌性的傲慢站姿. 文化意義：雙手抱胸、雙腿微開，或微微傾斜身體。這表現出時刻準備迎戰的自信與防禦性，是街舞態度的具體化。",
+    "poetic": "不發一語，只是靜靜地抱著雙臂站在角落；那無懈可擊的站姿早已散發著刺骨的寒意，沒有人敢輕易越過雷池。"
+  },
+  {
+    "term": "Peace, Love, Unity, and Having Fun",
+    "short_phrase": "創造性藝術交流，嘻哈終極咒語。",
+    "description": "和平、愛、團結與享受樂趣：Hip-Hop 文化的終極口號與核心價值. 文化意義：由 Zulu Nation 提出，定義了街舞等元素的發展方向——將破壞性的暴力轉化為創造性的藝術交流。",
+    "poetic": "當街角的槍聲被唱盤的刮擦聲取代，當互毆的拳頭變成了交疊的雙擊；這句簡單的咒語，真的把地獄拉回了人間。"
+  }
+]
