@@ -6,15 +6,15 @@
 - [實作資料集] 檔案連結：[DanceDataset](https://drive.google.com/drive/folders/1sVp0VV5cnPds2-x8nupfWWji3lVYc6a8?usp=sharing)
 
 #### Github
-- [期中總結] 檔案資料夾：[2025_Dance_Dialogue](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2025_Dance_Dialogue)
+- [期中總結]：[2025_Dance_Dialogue](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2025_Dance_Dialogue)
   - 備註：readme.md 檔案，內含步驟及需準備的資料
-- [References: Dance Culture Dataset] 檔案資料夾：[2026_Dance_Dialogue](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue)
+- [References: Dance Culture Dataset]：[2026_Dance_Dialogue](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue)
   - 備註：References_Dance_Culture_Dataset.md 檔案，內含資料格式及資料來源
-- [Only_Realtime_Notebook] 檔案資料夾：[260330_metrics_to_semantic_with_skeleton](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260330_metrics_to_semantic_with_skeleton)
+- [Only_Realtime_Notebook]：[260330_metrics_to_semantic_with_skeleton](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260330_metrics_to_semantic_with_skeleton)
   - 備註：最新 Jupyter Notebook 檔案
-- [Discord_Webhook_Realtime_Notebook] 檔案資料夾：[260420_multi_agent_to_discord](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260420_multi_agent_to_discord)
+- [Discord_Webhook_Realtime_Notebook]：[260420_multi_agent_to_discord](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260420_multi_agent_to_discord)
   - 備註：最新 Jupyter Notebook 檔案 + Discord Webhook 連結應用方式
-- [Discord_AI-bot_Realtime_Notebook] 檔案資料夾：[260503_discord_ai_agents](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260503_discord_ai_agents)
+- [Discord_AI-bot_Realtime_Notebook]：[260503_discord_ai_agents](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260503_discord_ai_agents)
   - 備註：最新 Jupyter Notebook 檔案 + Discord AI-bot 連結應用方式
 
 #### YouTube
