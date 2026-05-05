@@ -77,11 +77,18 @@ async def monitor_loop():
             state = state_manager.load()
             if state and state.get("pending_broadcast") and target_channel_id:
                 data = state["pending_broadcast"]
-                print(f"📡 偵測到新數據，由 5 個角色進行廣播...")
-                # 依序讓 Bot 說話
-                sequence = ["system", "technical", "battle_king", "old_school", "shonen"]
-                tech_text = "無"
+                mode = state.get("mode", "street")
+                print(f"📡 偵測到新數據 (Mode: {mode})，準備進行廣播...")
                 
+                # 根據模式決定廣播順序
+                if mode == "bajiajiang":
+                    sequence = ["system", "technical", "bjj_xingju", "bjj_ganliu", "bjj_elder"]
+                elif mode == "ballet":
+                    sequence = ["system", "technical", "ballet_master", "ballet_prima", "ballet_avant"]
+                else: # street
+                    sequence = ["system", "technical", "battle_king", "old_school", "shonen"]
+                
+                tech_text = "無"
                 for p_key in sequence:
                     if p_key in bot_instances:
                         bot = bot_instances[p_key]
@@ -107,11 +114,30 @@ async def monitor_loop():
         await asyncio.sleep(3)
 
 async def main():
-    tokens = {"system": os.getenv("DISCORD_TOKEN_SYSTEM"), "technical": os.getenv("DISCORD_TOKEN_TECHNICAL"), "battle_king": os.getenv("DISCORD_TOKEN_BATTLE_KING"), "old_school": os.getenv("DISCORD_TOKEN_OLD_SCHOOL"), "shonen": os.getenv("DISCORD_TOKEN_SHONEN")}
+    tokens = {
+        "system": os.getenv("DISCORD_TOKEN_SYSTEM"),
+        "technical": os.getenv("DISCORD_TOKEN_TECHNICAL"),
+        "battle_king": os.getenv("DISCORD_TOKEN_BATTLE_KING"),
+        "old_school": os.getenv("DISCORD_TOKEN_OLD_SCHOOL"),
+        "shonen": os.getenv("DISCORD_TOKEN_SHONEN"),
+        "bjj_xingju": os.getenv("DISCORD_TOKEN_BJJ_XINGJU"),
+        "bjj_ganliu": os.getenv("DISCORD_TOKEN_BJJ_GANLIU"),
+        "bjj_elder": os.getenv("DISCORD_TOKEN_BJJ_ELDER"),
+        "ballet_master": os.getenv("DISCORD_TOKEN_BALLET_MASTER"),
+        "ballet_prima": os.getenv("DISCORD_TOKEN_BALLET_PRIMA"),
+        "ballet_avant": os.getenv("DISCORD_TOKEN_BALLET_AVANT")
+    }
     tasks = []
     for k, v in tokens.items():
-        if v and "你的" not in v:
-            bot = DanceBot(persona_key=k, token=v); bot_instances[k] = bot; tasks.append(bot.start(v))
+        if v and v != "" and "YOUR_" not in v:
+            bot = DanceBot(persona_key=k, token=v)
+            bot_instances[k] = bot
+            tasks.append(bot.start(v))
+    
+    if not tasks:
+        print("❌ 沒有偵測到有效的 Discord Tokens，請檢查 .env 檔案。")
+        return
+
     await asyncio.gather(*tasks, monitor_loop())
 
 if __name__ == "__main__":
