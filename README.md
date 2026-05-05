@@ -3,24 +3,7 @@
 
 - [期中總結] 檔案資料夾：2025_Dance_Dialogue（先看資料夾中的 readme.md 檔案，內含步驟及需準備的資料）
 - [實作資料集] 檔案連結：[DanceDataset](https://drive.google.com/drive/folders/1sVp0VV5cnPds2-x8nupfWWji3lVYc6a8?usp=sharing)
-- [實作影片]
-  - [251117_demo](https://youtu.be/euIQWZVxnnk)
-  - [251211_ballet](https://youtu.be/IHUbKggOM-I?si=6zC36zoifc099O4i)
-  - [251211_twa](https://youtu.be/bgD3n89szUk?si=av-8L3DC5TKrFWyy)
-  - [251221_ballet_gemini](https://youtu.be/ves5hV7o2GE)
-  - [251221_ballet_gpt](https://youtu.be/JY-9nHZCZlM)
-  - [260125_AI_Dance_Analysis_Pipeline](https://youtu.be/mHVMO30UiXA)
-    - 肢體研究小組提供之[影片指標分析]網站操作紀錄 (Ballet)
-  - [260125_all_metrics_with_gpt_turns](https://youtu.be/CthxbnSNIb4)
-  - [20260131 ballet dialogue (no lights)](https://youtu.be/3Km7ewJF8Mg)
-  - [26020105 analysis](https://youtu.be/XlJo4qSw_WQ)
-    - 肢體研究小組提供之資料
-  - [26020205_LLM 語意文字生成_demo1](https://youtu.be/5NyVz_xD1U4)
-    - 匯入舞蹈文化資料庫+chatGPT生成語意文字
-  - [260201_LLM 語意文字生成_demo2](https://youtu.be/9Y7A3Azn2OI)
-    - 匯入舞蹈文化資料庫+chatGPT生成語意文字
-  - [260316_metrics_to_semantic_with_skeleton](https://youtu.be/9-S24MT_zdo)
-    - 六大指標資料生成語意文字
+- [實作影片]：[播放清單【 NCKU_AI-PUNK 】](https://youtube.com/playlist?list=PL6aFc3aUnSlTj6ngLf-h45rttFhrdVryS&si=YpLZcxLEE5LXdQDL)
 - [肢體研究小組-提供工具]
   - [骨架3D檢視](https://3ddemo.danceanalysis.fclinlab.com/)
   - [指標視覺化](https://vision.danceanalysis.fclinlab.com/)
