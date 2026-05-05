@@ -3,6 +3,7 @@
 
 - [期中總結] 檔案資料夾：2025_Dance_Dialogue（先看資料夾中的 readme.md 檔案，內含步驟及需準備的資料）
 - [實作資料集] 檔案連結：[DanceDataset](https://drive.google.com/drive/folders/1sVp0VV5cnPds2-x8nupfWWji3lVYc6a8?usp=sharing)
+- [實作檔案]檔案總整理：[實作連結](https://docs.google.com/document/d/13akpmVUNkJLWO78cIQ2tOAPk_lKGhlwTNGqt1iJp55Y/edit?tab=t.0)
 - [實作影片]：[YouTube Playlist【 NCKU_AI-PUNK 】](https://youtube.com/playlist?list=PL6aFc3aUnSlTj6ngLf-h45rttFhrdVryS&si=YpLZcxLEE5LXdQDL)
 - [肢體研究小組-提供工具]
   - [骨架3D檢視](https://3ddemo.danceanalysis.fclinlab.com/)
