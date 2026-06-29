@@ -3,32 +3,36 @@
 目前核心檔案與分工（建議優先閱讀順序）
 - [程式碼檔案資料夾](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/code_v202606)
 
-### 01~03 系列（基礎流程）
+### 01~06 系列
+*（基礎流程）*
 - 01_Complete_Pipeline.ipynb：完整特徵提取 → LSTM 嵌入訓練 → 正規化
 - 02_gpt-ballet_v20262.ipynb：即時 GPT 對話系統（AI sees / AI says）
 - 03_all_metrics_with_gpt_turns.ipynb：指標分析 + GPT 回應抽取情感/動作/文化關鍵詞 + 建立查表規則
-
-### 04~06 系列（指標到語意轉換）
+*（指標到語意轉換）*
 - 04_video_charts.ipynb：視覺化影片與指標圖表
 - 05_calculate_ranges.ipynb：計算各指標的正常範圍與門檻
 - 06_metrics_to_semantic_text.ipynb：將量化指標直接轉成文字描述
+> [02~05 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260201_compare_turns)
+> [06 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260309_metrics_to_semantic)
 
-### 07 系列（骨骼到語意）
+### 07 系列 *（骨骼到語意）*
 - 07_metrics_to_semantic_with_skeleton_ballet.ipynb
 - 07_metrics_to_semantic_with_skeleton_baijiang.ipynb
 - 07_metrics_to_semantic_with_skeleton_streetdance.ipynb
 > 針對不同舞種，將骨骼特徵 + 量化指標轉成語意文本
+> [07 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260330_metrics_to_semantic_with_skeleton)
 
-### 08 系列（Multi-Agents）
+### 08 系列 *（Multi-Agents）*
 - 08_multi_agents_ballet.ipynb
 - 08_multi_agents_baijiang.ipynb
 - 08_multi_agents_streetdance.ipynb
-> 目前最先進版本，以 Discord 為平台，使用 Multi-Agents 處理不同舞種的語意生成，功能最完整
+> 目前最先進版本，以 Discord 為平台，使用 Multi-Agents 處理不同舞種的語意生成
+> [08 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260503_discord_ai_agents)
 
 ## 現況
 - 已涵蓋芭蕾、八家將、街舞三種舞風。
 - 從單純 GPT 呼叫，進化到 Metrics → Semantic → Multi-Agents 的完整管道。
-- 有[語意文化資料庫](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue)，作為知識底座（例：ballet_cultural_library.json）。
+- 有[語意文化資料庫](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue)，作為知識底座 *（例：ballet_cultural_library.json）*。
   - [資料庫資料收集之參考文獻與資料結構](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/References_Dance_Culture_Dataset.md)。
   - [芭蕾舞](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/ballet_cultural_library.json)
   - [八家將](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/ba_jia_jiang_cultural_library.json)
