@@ -1,7 +1,7 @@
 ## 目標
 將各種舞蹈（芭蕾、八家將、街舞等）的骨骼運動資料，轉化為量化指標 + 語意描述 + 文化情感解讀，最終建立可查表、可自動標註的舞蹈語意系統。
 目前核心檔案與分工（建議優先閱讀順序）
-- [程式碼檔案資料夾](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/code_v202606)
+- [01~08 ver. 程式碼檔案彙整](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/code_v202606)
 
 ### 01~06 ver.
 > *（基礎流程）*
