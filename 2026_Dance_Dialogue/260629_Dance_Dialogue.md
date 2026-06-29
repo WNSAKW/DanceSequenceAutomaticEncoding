@@ -30,7 +30,7 @@
 - 08_multi_agents_baijiang.ipynb
 - 08_multi_agents_streetdance.ipynb
 > 附件檔案
-  1. [08 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260503_discord_ai_agents)：目前最先進版本，以 Discord 為平台，使用 Multi-Agents 處理不同舞種的語意生成
+  1. [08 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260503_discord_ai_agents)：以 Discord 為平台，使用 Multi-Agents 處理不同舞種的語意生成
 
 ## 現況
 - 已涵蓋芭蕾、八家將、街舞三種舞風。
