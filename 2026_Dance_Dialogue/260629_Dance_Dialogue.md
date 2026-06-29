@@ -8,6 +8,7 @@
 - 01_Complete_Pipeline.ipynb：完整特徵提取 → LSTM 嵌入訓練 → 正規化
 - 02_gpt-ballet_v20262.ipynb：即時 GPT 對話系統（AI sees / AI says）
 - 03_all_metrics_with_gpt_turns.ipynb：指標分析 + GPT 回應抽取情感/動作/文化關鍵詞 + 建立查表規則
+
 *（指標到語意轉換）*
 - 04_video_charts.ipynb：視覺化影片與指標圖表
 - 05_calculate_ranges.ipynb：計算各指標的正常範圍與門檻
