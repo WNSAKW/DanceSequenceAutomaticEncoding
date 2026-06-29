@@ -28,3 +28,7 @@
 - 已涵蓋芭蕾、八家將、街舞三種舞風。
 - 從單純 GPT 呼叫，進化到 Metrics → Semantic → Multi-Agents 的完整管道。
 - 有[語意文化資料庫](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue)，作為知識底座（例：ballet_cultural_library.json）。
+  - [資料庫資料收集之參考文獻與資料結構](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/References_Dance_Culture_Dataset.md)。
+  - [芭蕾舞](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/ballet_cultural_library.json)
+  - [八家將](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/ba_jia_jiang_cultural_library.json)
+  - [街舞](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/street_dance_cultural_library.json)
