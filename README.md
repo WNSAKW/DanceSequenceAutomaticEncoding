@@ -9,7 +9,8 @@
 - [期中總結]：[2025_Dance_Dialogue](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2025_Dance_Dialogue)
   - 備註：readme.md 檔案，內含步驟及需準備的資料
 - [References: Dance Culture Dataset]：[2026_Dance_Dialogue](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue)
-  - 備註：References_Dance_Culture_Dataset.md 檔案，內含資料格式及資料來源
+  - 備註一：References_Dance_Culture_Dataset.md 檔案，內含資料格式及資料來源
+  - 備註二：20260629_Dance_Dialogue.md 檔案，內含主要實作 01~08 ver. 的 ipynb 程式碼
 - [Only_Realtime_Notebook]：[260330_metrics_to_semantic_with_skeleton](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260330_metrics_to_semantic_with_skeleton)
   - 備註：最新 Jupyter Notebook 檔案
 - [Discord_Webhook_Realtime_Notebook]：[260420_multi_agent_to_discord](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260420_multi_agent_to_discord)
