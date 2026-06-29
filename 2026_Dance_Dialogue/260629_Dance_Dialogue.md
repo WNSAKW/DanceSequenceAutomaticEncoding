@@ -23,7 +23,7 @@
 - 08_multi_agents_ballet.ipynb
 - 08_multi_agents_baijiang.ipynb
 - 08_multi_agents_streetdance.ipynb
-> 目前最先進版本，使用 Multi-Agents 處理不同舞種的語意生成，功能最完整
+> 目前最先進版本，以 Discord 為平台，使用 Multi-Agents 處理不同舞種的語意生成，功能最完整
 
 ## 現況
 - 已涵蓋芭蕾、八家將、街舞三種舞風。
