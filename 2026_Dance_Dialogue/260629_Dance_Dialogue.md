@@ -16,7 +16,7 @@
 - 07_metrics_to_semantic_with_skeleton_ballet.ipynb
 - 07_metrics_to_semantic_with_skeleton_baijiang.ipynb
 - 07_metrics_to_semantic_with_skeleton_streetdance.ipynb
-* → 針對不同舞種，將骨骼特徵 + 量化指標轉成語意文本
+>>> → 針對不同舞種，將骨骼特徵 + 量化指標轉成語意文本
 
 ### 08 系列（多代理系統）
 - 08_multi_agents_ballet.ipynb
