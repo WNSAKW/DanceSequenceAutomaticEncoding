@@ -3,7 +3,7 @@
 目前核心檔案與分工（建議優先閱讀順序）
 - [程式碼檔案資料夾](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/2026_Dance_Dialogue/code_v202606)
 
-### 01~06 系列
+### 01~06 ver.
 > *（基礎流程）*
 - 01_Complete_Pipeline.ipynb：完整特徵提取 → LSTM 嵌入訓練 → 正規化
 - 02_gpt-ballet_v20262.ipynb：即時 GPT 對話系統（AI sees / AI says）
@@ -16,7 +16,7 @@
   1. [02~05 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260201_compare_turns)
   2. [06 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260309_metrics_to_semantic)
 
-### 07 系列
+### 07 ver.
 > *（骨骼到語意）*
 - 07_metrics_to_semantic_with_skeleton_ballet.ipynb
 - 07_metrics_to_semantic_with_skeleton_baijiang.ipynb
@@ -24,7 +24,7 @@
 > 附件檔案
   1. [07 最新完整資料](https://github.com/WNSAKW/DanceSequenceAutomaticEncoding/tree/main/260330_metrics_to_semantic_with_skeleton)：針對不同舞種，將骨骼特徵 + 量化指標轉成語意文本
 
-### 08 系列
+### 08 ver.
 > *（Multi-Agents）*
 - 08_multi_agents_ballet.ipynb
 - 08_multi_agents_baijiang.ipynb
